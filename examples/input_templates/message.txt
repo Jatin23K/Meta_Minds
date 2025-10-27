@@ -1,0 +1,53 @@
+SENIOR MESSAGE / INSTRUCTIONS
+=============================
+
+From: Chief Financial Officer
+To: Data Analysis Team  
+Date: Current Analysis Cycle
+Subject: Airline Financial Risk Assessment - Strategic Priority
+
+Priority Level: High
+
+Key Instructions:
+Focus on comprehensive risk assessment across our airline financial portfolio. This analysis will inform critical strategic decisions for the upcoming fiscal year and potential market volatility.
+
+Focus Areas:
+- Financial Stability: Analyze asset-to-liability ratios across the 2013-2023 period
+- Risk Mitigation: Identify periods of highest financial risk and contributing factors
+- Performance Trends: Focus on pre-COVID, during-COVID, and post-COVID recovery patterns
+- Strategic Insights: Provide actionable recommendations for financial resilience
+
+Analysis Approach:
+Use quantitative financial analysis with focus on ratio analysis and trend identification. Emphasize patterns that indicate financial strength or vulnerability across the decade-long period.
+
+Stakeholder Considerations:
+Results will be presented to board of directors and executive leadership. Ensure findings are clear, actionable, and support strategic decision-making for airline operations.
+
+Timeline Notes:
+This analysis supports upcoming board presentations and strategic planning sessions. Focus on insights that can inform immediate and long-term financial strategies.
+
+Risk Factors:
+Pay special attention to:
+- Economic downturns and recovery patterns
+- Industry disruption impacts (COVID-19)
+- Competitive positioning indicators
+- Liquidity and solvency trends
+
+Quality Requirements:
+Provide high-confidence insights with clear supporting evidence. Include uncertainty analysis where appropriate and highlight key assumptions.
+
+Presentation Requirements:
+Prepare executive-level summary with clear visualizations and actionable recommendations. Focus on strategic implications rather than technical details.
+
+Success Metrics:
+Analysis should enable informed decisions about:
+- Financial risk tolerance levels
+- Strategic investment priorities  
+- Operational resilience planning
+- Market positioning strategies
+
+Special Instructions:
+This decade-long dataset provides unique insights into aviation industry resilience. Focus on lessons learned and forward-looking strategic implications for our organization.
+
+Additional Notes:
+Consider broader industry context and competitive landscape when interpreting financial performance patterns. Emphasize practical applications of findings.

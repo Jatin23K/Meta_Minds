@@ -1,0 +1,242 @@
+# =========================================================
+# Meta Minds Analysis Workflow
+# =========================================================
+# Complete workflow for automated data analysis with human oversight
+
+workflow_id: "meta_minds_analysis_v1"
+name: "Meta Minds Data Analysis Workflow"
+description: "Automated data analysis with SMART question generation and quality validation"
+version: "1.0.0"
+created_by: "system"
+created_at: "2024-01-01T00:00:00"
+category: "data_analysis"
+estimated_duration_minutes: 15
+tags: ["data_analysis", "smart_questions", "automation"]
+
+input_schema:
+  dataset_path: "string"
+  analysis_context: "object"
+  quality_threshold: "number"
+
+output_schema:
+  questions: "step_meta_analysis.output.questions"
+  quality_report: "step_meta_analysis.output.quality_report"
+  analysis_summary: "step_meta_analysis.output.analysis_summary"
+  human_approved: "step_human_review.output.approved"
+
+start_step: "step_validate_input"
+
+steps:
+  # Step 1: Validate input data
+  - step_id: "step_validate_input"
+    step_type: "task"
+    name: "Validate Input Data"
+    description: "Validate that the input dataset exists and is readable"
+    automation_system: "data_processor"
+    task_type: "validate_data"
+    input_mapping:
+      file_path: "input.dataset_path"
+    output_mapping:
+      is_valid: "is_valid"
+      file_size: "file_size"
+      error_message: "error_message"
+    next_step_success: "step_check_file_size"
+    next_step_failure: "step_input_error"
+    timeout_seconds: 30
+    retry_count: 2
+
+  # Step 2: Check if file size is reasonable
+  - step_id: "step_check_file_size"
+    step_type: "condition"
+    name: "Check File Size"
+    description: "Ensure file size is within reasonable limits"
+    condition:
+      variable: "step_validate_input.output.file_size"
+      operator: "less_than"
+      value: 104857600  # 100MB limit
+      source: "output"
+    next_step_success: "step_meta_analysis"
+    next_step_failure: "step_large_file_warning"
+
+  # Step 3: Warn about large file
+  - step_id: "step_large_file_warning"
+    step_type: "human_input"
+    name: "Large File Warning"
+    description: "Get human approval for processing large file"
+    human_prompt: "The dataset is larger than 100MB. Processing may take longer. Do you want to continue?"
+    human_options:
+      - id: "continue"
+        label: "Continue with analysis"
+      - id: "abort"
+        label: "Abort analysis"
+      - id: "sample"
+        label: "Process sample only"
+    next_step_success: "step_meta_analysis"
+    next_step_failure: "step_analysis_aborted"
+
+  # Step 4: Run Meta Minds analysis
+  - step_id: "step_meta_analysis"
+    step_type: "task"
+    name: "Meta Minds Analysis"
+    description: "Generate SMART questions using Meta Minds"
+    automation_system: "meta_minds"
+    task_type: "data_analysis"
+    input_mapping:
+      dataset_path: "input.dataset_path"
+      context: "input.analysis_context"
+      dataset_name: "input.dataset_name"
+    output_mapping:
+      questions: "questions"
+      quality_report: "quality_report"
+      analysis_summary: "analysis_summary"
+    next_step_success: "step_quality_check"
+    next_step_failure: "step_analysis_failed"
+    timeout_seconds: 300
+    retry_count: 2
+
+  # Step 5: Check quality threshold
+  - step_id: "step_quality_check"
+    step_type: "condition"
+    name: "Quality Threshold Check"
+    description: "Check if analysis quality meets threshold"
+    condition:
+      variable: "step_meta_analysis.output.quality_report.summary.average_score"
+      operator: "greater_than"
+      value: 0.7
+      source: "output"
+    next_step_success: "step_generate_report"
+    next_step_failure: "step_quality_review"
+
+  # Step 6: Human quality review
+  - step_id: "step_quality_review"
+    step_type: "human_input"
+    name: "Quality Review"
+    description: "Human review of low-quality analysis"
+    human_prompt: "The analysis quality is below threshold. Please review the results."
+    human_options:
+      - id: "accept"
+        label: "Accept current results"
+      - id: "retry"
+        label: "Retry analysis with different parameters"
+      - id: "manual"
+        label: "Request manual analysis"
+    next_step_success: "step_generate_report"
+    next_step_failure: "step_manual_analysis"
+
+  # Step 7: Generate final report
+  - step_id: "step_generate_report"
+    step_type: "task"
+    name: "Generate Report"
+    description: "Generate final analysis report"
+    automation_system: "report_generator"
+    task_type: "generate_report"
+    input_mapping:
+      questions: "step_meta_analysis.output.questions"
+      quality_report: "step_meta_analysis.output.quality_report"
+      dataset_info: "step_meta_analysis.output.analysis_summary"
+    output_mapping:
+      report_path: "report_path"
+      report_data: "report_data"
+    next_step_success: "step_human_review"
+    next_step_failure: "step_report_failed"
+
+  # Step 8: Final human review
+  - step_id: "step_human_review"
+    step_type: "human_input"
+    name: "Final Review"
+    description: "Final human review and approval"
+    human_prompt: "Please review the analysis results and approve for delivery."
+    human_options:
+      - id: "approve"
+        label: "Approve and deliver"
+      - id: "revise"
+        label: "Request revisions"
+      - id: "reject"
+        label: "Reject analysis"
+    next_step_success: "step_deliver_results"
+    next_step_failure: "step_revision_needed"
+
+  # Step 9: Deliver results
+  - step_id: "step_deliver_results"
+    step_type: "task"
+    name: "Deliver Results"
+    description: "Deliver final results to user"
+    automation_system: "notification_system"
+    task_type: "send_notification"
+    input_mapping:
+      recipient: "input.requester_email"
+      report_path: "step_generate_report.output.report_path"
+      message: "Your data analysis is complete"
+    next_step_success: null  # End of workflow
+
+  # Error handling steps
+  - step_id: "step_input_error"
+    step_type: "task"
+    name: "Input Error Notification"
+    description: "Notify about input validation error"
+    automation_system: "notification_system"
+    task_type: "send_error_notification"
+    input_mapping:
+      error: "step_validate_input.output.error_message"
+      recipient: "input.requester_email"
+    next_step_success: null
+
+  - step_id: "step_analysis_failed"
+    step_type: "human_input"
+    name: "Analysis Failed"
+    description: "Handle analysis failure"
+    human_prompt: "Meta Minds analysis failed. What should we do?"
+    human_options:
+      - id: "retry"
+        label: "Retry analysis"
+      - id: "manual"
+        label: "Manual analysis"
+      - id: "abort"
+        label: "Abort workflow"
+    next_step_success: "step_meta_analysis"
+    next_step_failure: null
+
+  - step_id: "step_analysis_aborted"
+    step_type: "task"
+    name: "Analysis Aborted"
+    description: "Notify that analysis was aborted"
+    automation_system: "notification_system"
+    task_type: "send_notification"
+    input_mapping:
+      recipient: "input.requester_email"
+      message: "Analysis was aborted by user request"
+    next_step_success: null
+
+  - step_id: "step_manual_analysis"
+    step_type: "human_input"
+    name: "Manual Analysis Required"
+    description: "Escalate to manual analysis"
+    human_prompt: "This dataset requires manual analysis. Please assign to an analyst."
+    human_options:
+      - id: "assigned"
+        label: "Assigned to analyst"
+      - id: "queue"
+        label: "Added to analysis queue"
+    next_step_success: null
+
+  - step_id: "step_report_failed"
+    step_type: "task"
+    name: "Report Generation Failed"
+    description: "Handle report generation failure"
+    automation_system: "notification_system"
+    task_type: "send_error_notification"
+    input_mapping:
+      error: "Report generation failed"
+      recipient: "input.requester_email"
+    next_step_success: null
+
+  - step_id: "step_revision_needed"
+    step_type: "task"
+    name: "Revision Requested"
+    description: "Handle revision request"
+    automation_system: "task_manager"
+    task_type: "create_revision_task"
+    input_mapping:
+      original_analysis: "step_meta_analysis.output"
+      revision_notes: "step_human_review.output.notes"
+    next_step_success: null

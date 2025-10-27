@@ -1,0 +1,148 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    📊 META MINDS INDIVIDUAL DATASETS REPORT                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📅 Generated: 2025-10-27 11:32:22
+📊 Total Datasets Analyzed: 3
+📋 Questions Generated: 3 datasets analyzed
+
+📋 OVERALL SUMMARY
+================================================================================
+📊 Total Records Across All Datasets: 6,200
+📊 Total Unique Columns: 14
+📊 Successfully Processed: 3/3 datasets
+📊 Overall Quality Score: 0.99/1.00
+📊 High Quality Questions: 30/30
+✅ Overall Status: Excellent Analysis Quality
+
+🎯 All individual dataset analyses complete!
+
+================================================================================
+
+📊 DATASET 1: Assets.csv
+================================================================================
+
+📋 DATA SUMMARY:
+----------------------------------------
+📊 Rows: 2440
+📊 Columns: 5
+
+📊 Column Information:
+   • UNIQUE_CARRIER (object): Categorical identifier. 77 unique values (e.g., '5V'). Used for grouping and entity identification.
+   •  Description (object): Categorical text field. 78 unique values (most common: 'ABX Air Inc'). Useful for grouping and filtering.
+   •  QUARTER (int64): Quarterly time period identifier (1-4). Enables seasonal analysis and quarterly performance tracking.
+   • Sum(CURR_ASSETS) (float64): Balance sheet item. Range: -2,262,511 to 131,601,042. Critical for financial position analysis.
+   • Year (int64): Temporal identifier representing calendar year. Range: 2013-2023. Used for time-series analysis and year-over-year comparisons.
+
+🔍 GENERATED QUESTIONS:
+----------------------------------------
+    1. What specific trends and patterns can be identified in airline current assets over the 2013-2023 period?
+    2. How do current asset levels correlate with seasonal variations in airline operations?
+    3. What measurable insights can be extracted from current asset data to guide financial risk assessment?
+    4. In what ways do current asset patterns reveal unexpected relationships or anomalies across different carriers?
+    5. How can current asset information be leveraged to predict future financial stability for airline executives?
+    6. What key performance indicators emerge from analyzing current asset trends for risk management?
+    7. How do seasonal or temporal variations manifest in current asset data across different quarters?
+    8. What factors contribute most significantly to the variations observed in current asset levels?
+    9. In what ways can current asset data inform strategic business decisions for airline executives?
+   10. How do different airline carriers compare in terms of current asset management efficiency?
+   11. What are the critical current asset thresholds that indicate financial risk for airline operations?
+   12. How do current asset trends differ between pre-COVID, during-COVID, and post-COVID periods?
+   13. What current asset patterns can be used to identify airlines at risk of financial distress?
+
+📊 QUALITY ASSESSMENT:
+----------------------------------------
+   📈 Average Score: 0.99/1.00
+   ✅ High Quality Questions: 13/13
+   ⚠️  Needs Improvement: 0
+   🌟 Status: Excellent Quality
+
+================================================================================
+
+📊 DATASET 2: Liabilities.csv
+================================================================================
+
+📋 DATA SUMMARY:
+----------------------------------------
+📊 Rows: 2440
+📊 Columns: 5
+
+📊 Column Information:
+   • UNIQUE_CARRIER (object): Categorical identifier. 77 unique values (e.g., '5V'). Used for grouping and entity identification.
+   •  Description (object): Categorical text field. 78 unique values (most common: 'ABX Air Inc'). Useful for grouping and filtering.
+   •  QUARTER (int64): Quarterly time period identifier (1-4). Enables seasonal analysis and quarterly performance tracking.
+   • Sum(CURR_LIABILITIES) (float64): Numeric metric. Range: -20,003,846.00 to 121,928,824.00, Mean: 3,077,528.64. 2,351 unique values.
+   • Year (int64): Temporal identifier representing calendar year. Range: 2013-2023. Used for time-series analysis and year-over-year comparisons.
+
+🔍 GENERATED QUESTIONS:
+----------------------------------------
+    1. What specific trends and patterns can be identified in airline current liabilities over the 2013-2023 period?
+    2. How do current liability levels correlate with seasonal variations in airline operations?
+    3. What measurable insights can be extracted from current liability data to guide financial risk assessment?
+    4. In what ways do current liability patterns reveal unexpected relationships or anomalies across different carriers?
+    5. How can current liability information be leveraged to predict future financial stability for airline executives?
+    6. What key performance indicators emerge from analyzing current liability trends for risk management?
+    7. How do seasonal or temporal variations manifest in current liability data across different quarters?
+    8. What factors contribute most significantly to the variations observed in current liability levels?
+    9. In what ways can current liability data inform strategic business decisions for airline executives?
+   10. How do different airline carriers compare in terms of current liability management efficiency?
+   11. What are the critical current liability thresholds that indicate financial risk for airline operations?
+   12. How do current liability trends differ between pre-COVID, during-COVID, and post-COVID periods?
+   13. What current liability patterns can be used to identify airlines at risk of financial distress?
+
+📊 QUALITY ASSESSMENT:
+----------------------------------------
+   📈 Average Score: 0.99/1.00
+   ✅ High Quality Questions: 13/13
+   ⚠️  Needs Improvement: 0
+   🌟 Status: Excellent Quality
+
+================================================================================
+
+📊 DATASET 3: Top_10_Ratio.csv
+================================================================================
+
+📋 DATA SUMMARY:
+----------------------------------------
+📊 Rows: 1320
+📊 Columns: 4
+
+📊 Column Information:
+   • UNIQUE_CARRIER (object): Categorical identifier. 10 unique values (e.g., 'AA'). Used for grouping and entity identification.
+   • YEAR (int64): Temporal identifier representing calendar year. Range: 2013-2023. Used for time-series analysis and year-over-year comparisons.
+   • QUARTER (int64): Quarterly time period identifier (1-4). Enables seasonal analysis and quarterly performance tracking.
+   • CURRENT_RATIO (float64): Financial ratio/rate metric. Range: -0.40 to 2.85, Avg: 1.04. Used for financial health assessment and comparative analysis.
+
+🔍 GENERATED QUESTIONS:
+----------------------------------------
+    1. What specific trends and patterns can be identified in airline current ratios over the 2013-2023 period?
+    2. How do current ratio levels correlate with seasonal variations in airline operations?
+    3. What measurable insights can be extracted from current ratio data to guide financial risk assessment?
+    4. In what ways do current ratio patterns reveal unexpected relationships or anomalies across different carriers?
+    5. How can current ratio information be leveraged to predict future financial stability for airline executives?
+    6. What key performance indicators emerge from analyzing current ratio trends for risk management?
+    7. How do seasonal or temporal variations manifest in current ratio data across different quarters?
+    8. What factors contribute most significantly to the variations observed in current ratio levels?
+    9. In what ways can current ratio data inform strategic business decisions for airline executives?
+   10. How do different airline carriers compare in terms of current ratio management efficiency?
+   11. What are the critical current ratio thresholds that indicate financial risk for airline operations?
+   12. How do current ratio trends differ between pre-COVID, during-COVID, and post-COVID periods?
+   13. What current ratio patterns can be used to identify airlines at risk of financial distress?
+
+📊 QUALITY ASSESSMENT:
+----------------------------------------
+   📈 Average Score: 0.99/1.00
+   ✅ High Quality Questions: 13/13
+   ⚠️  Needs Improvement: 0
+   🌟 Status: Excellent Quality
+
+================================================================================
+
+📊 OVERALL SUMMARY
+================================================================================
+📊 Total Datasets: 3
+📋 Total Questions: Dynamic per user preference
+📈 Overall Quality Score: 0.99/1.00
+🌟 Overall Status: Excellent Analysis Quality
+
+🎯 All individual dataset analyses complete!

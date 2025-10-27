@@ -1,0 +1,320 @@
+# =========================================================
+# META MINDS - DETAILED REQUIREMENTS FILE
+# =========================================================
+# Comprehensive dependencies with descriptions for each component
+
+# =========================================================
+# CORE DEPENDENCIES - Essential for Meta Minds functionality
+# =========================================================
+
+# Python Data Processing & Analysis
+pandas>=2.1.0                  # Data manipulation and analysis - core data handling for CSV/Excel
+numpy>=1.24.0                  # Numerical computing - mathematical operations on datasets
+openpyxl>=3.1.0                # Excel file reading/writing - supports .xlsx format
+xlrd>=2.0.1                    # Excel file reading - supports legacy .xls format
+
+# AI & Machine Learning Core
+openai>=1.3.0                  # OpenAI API client - GPT models for intelligent question generation
+crewai>=0.22.0                 # Multi-agent AI framework - orchestrates Schema Sleuth & Curious Catalyst agents
+langchain>=0.1.0               # LLM application framework - chains AI operations together
+
+# Web Framework & User Interface
+streamlit>=1.28.0              # Web application framework - main user interface for Meta Minds
+streamlit-webrtc>=0.47.0       # WebRTC integration for Streamlit - enables real-time collaboration
+
+# =========================================================
+# ADVANCED ML & AI MODELS (src/ml/)
+# =========================================================
+
+# Deep Learning & Transformer Models
+torch>=2.1.0                   # PyTorch framework - powers TransformerQuestionGenerator neural networks
+transformers>=4.35.0           # Hugging Face transformers - T5 and GPT-2 models for question generation
+sentence-transformers>=2.2.0   # Sentence embeddings - semantic similarity for question validation
+scikit-learn>=1.3.0            # Machine learning library - quality prediction and clustering models
+tensorflow>=2.14.0             # TensorFlow framework - alternative ML backend for specialized models
+
+# Natural Language Processing
+nltk>=3.8.0                    # Natural language toolkit - sentiment analysis in ML learning system
+spacy>=3.7.0                   # Advanced NLP library - linguistic analysis and entity recognition
+
+# =========================================================
+# DATA VISUALIZATION & ANALYTICS (src/ui/advanced_analytics.py)
+# =========================================================
+
+# Interactive Visualizations
+plotly>=5.17.0                 # Interactive plotting - quality dashboards, radar charts, treemaps
+seaborn>=0.12.0                # Statistical visualization - correlation matrices, distribution plots
+matplotlib>=3.7.0              # Base plotting library - performance trend visualizations
+altair>=5.0.0                  # Declarative visualization - alternative chart library
+
+# Advanced Analytics
+scipy>=1.11.0                  # Scientific computing - statistical functions for data analysis
+statsmodels>=0.14.0            # Statistical modeling - time series analysis and regression
+
+# =========================================================
+# ENTERPRISE INTEGRATIONS (src/integrations/)
+# =========================================================
+
+# Communication Platforms
+slack-sdk>=3.25.0              # Slack API client - notifications, bot interactions, analysis alerts
+pymsteams>=0.2.2               # Microsoft Teams webhooks - Teams integration for notifications
+discord.py>=2.3.0              # Discord API client - alternative communication platform
+
+# Cloud Storage & Services
+boto3>=1.29.0                  # AWS SDK - S3 storage for analysis results, Lambda functions
+azure-storage-blob>=12.19.0    # Azure Blob Storage - Microsoft cloud storage integration
+google-cloud-storage>=2.10.0   # Google Cloud Storage - GCP file storage and management
+
+# CRM & Business Platforms
+simple-salesforce>=1.12.0      # Salesforce API client - CRM integration, case creation
+pymongo>=4.6.0                 # MongoDB client - document storage for analysis results
+psycopg2-binary>=2.9.0         # PostgreSQL adapter - enterprise database integration
+
+# =========================================================
+# WORKFLOW ORCHESTRATION (src/workflows/)
+# =========================================================
+
+# Workflow Management
+pyyaml>=6.0.1                  # YAML parser - workflow definition files, configuration management
+celery>=5.3.0                  # Distributed task queue - background processing of analysis tasks
+redis>=5.0.0                   # In-memory data store - caching system and Celery message broker
+pika>=1.3.0                    # RabbitMQ client - alternative message queuing system
+
+# Process & Service Management
+supervisor>=4.2.0              # Process control - manages long-running automation services
+gunicorn>=21.2.0               # WSGI HTTP server - production deployment of web interfaces
+
+# =========================================================
+# REAL-TIME COLLABORATION (src/integrations/realtime_collaboration.py)
+# =========================================================
+
+# WebRTC & Real-time Communication
+websockets>=12.0               # WebSocket implementation - real-time messaging between collaborators
+aiortc>=1.6.0                  # WebRTC implementation - peer-to-peer audio/video collaboration
+aiohttp>=3.9.0                 # Async HTTP client/server - handles real-time API requests
+socketio>=5.10.0               # Socket.IO implementation - bidirectional event-based communication
+
+# Event Streaming & Messaging
+kafka-python>=2.0.0            # Apache Kafka client - high-throughput event streaming
+pulsar-client>=3.3.0           # Apache Pulsar client - distributed messaging system
+
+# =========================================================
+# PERFORMANCE OPTIMIZATION (src/ml/performance_optimizer.py)
+# =========================================================
+
+# Caching & Memory Management
+joblib>=1.3.0                  # Parallel computing - model persistence and caching decorators
+multiprocessing-logging>=0.3.4 # Multiprocessing logging - concurrent operation logging
+memory-profiler>=0.61.0        # Memory usage monitoring - identifies optimization opportunities
+psutil>=5.9.0                  # System monitoring - tracks resource usage and performance
+
+# Asynchronous Processing
+asyncio>=3.4.3                 # Asynchronous I/O - concurrent execution of analysis tasks
+aiofiles>=23.2.0               # Async file operations - non-blocking file reading/writing
+uvloop>=0.19.0                 # Fast async event loop - significantly improves async performance
+
+# =========================================================
+# SECURITY & AUTHENTICATION
+# =========================================================
+
+# Cryptography & Security
+cryptography>=41.0.0           # Cryptographic library - secure API key storage and encryption
+python-jose>=3.3.0             # JSON Web Token implementation - secure session management
+passlib>=1.7.4                 # Password hashing - secure authentication for enterprise features
+bcrypt>=4.1.0                  # Password hashing algorithm - industry-standard security
+
+# Enterprise Authentication
+authlib>=1.2.0                 # OAuth implementation - SSO integration for enterprise users
+python-ldap>=3.4.0             # LDAP client - directory services integration
+
+# =========================================================
+# TESTING & QUALITY ASSURANCE (src/tests/)
+# =========================================================
+
+# Testing Frameworks
+pytest>=7.4.0                  # Testing framework - comprehensive unit and integration tests
+pytest-asyncio>=0.21.0         # Async testing support - tests for real-time collaboration features
+pytest-cov>=4.1.0              # Coverage reporting - ensures comprehensive test coverage
+unittest-xml-reporting>=3.2.0  # XML test reports - CI/CD pipeline integration
+
+# Code Quality & Standards
+black>=23.9.0                  # Code formatter - maintains consistent code style across project
+flake8>=6.1.0                  # Code linter - identifies style violations and potential errors
+mypy>=1.6.0                    # Type checking - static analysis for type safety
+bandit>=1.7.0                  # Security linter - detects security vulnerabilities in code
+
+# Performance Testing
+locust>=2.17.0                 # Load testing framework - tests system performance under load
+
+# =========================================================
+# DEVELOPMENT & DEBUGGING TOOLS
+# =========================================================
+
+# Interactive Development
+ipython>=8.16.0                # Enhanced Python shell - better development experience
+jupyter>=1.0.0                 # Jupyter notebooks - interactive development and prototyping
+notebook>=7.0.0                # Jupyter notebook server - web-based development environment
+
+# Debugging & Profiling
+pdb++>=0.10.3                  # Enhanced debugger - improved debugging capabilities
+line-profiler>=4.1.0           # Line-by-line profiler - identifies performance bottlenecks
+py-spy>=0.3.0                  # Sampling profiler - production performance monitoring
+
+# =========================================================
+# API & WEB SERVICES
+# =========================================================
+
+# HTTP & API Libraries
+requests>=2.31.0               # HTTP library - API requests to external services
+urllib3>=2.0.0                 # HTTP client - low-level HTTP operations
+httpx>=0.25.0                  # Modern async HTTP client - future-ready HTTP requests
+fastapi>=0.104.0               # Modern web framework - RESTful API development
+uvicorn>=0.24.0                # ASGI server - serves FastAPI applications in production
+
+# API Documentation
+sphinx>=7.2.0                  # Documentation generator - comprehensive API documentation
+sphinx-rtd-theme>=1.3.0        # Documentation theme - professional documentation styling
+
+# =========================================================
+# UTILITIES & HELPER LIBRARIES
+# =========================================================
+
+# Configuration & Environment
+python-dotenv>=1.0.0           # Environment variables - secure configuration management
+click>=8.1.0                   # Command line interface - CLI tool development
+rich>=13.6.0                   # Rich text formatting - beautiful terminal output and logging
+tqdm>=4.66.0                   # Progress bars - visual feedback for long-running operations
+
+# Date & Time Handling
+python-dateutil>=2.8.0         # Date utilities - flexible date parsing and manipulation
+pytz>=2023.3                   # Timezone definitions - accurate timezone handling
+arrow>=1.3.0                   # Human-friendly dates - intuitive date/time operations
+
+# File & System Operations
+pathlib2>=2.3.0                # Object-oriented paths - modern filesystem path handling
+watchdog>=3.0.0                # File system monitoring - detects file changes for auto-reload
+send2trash>=1.8.0              # Safe file deletion - moves files to system trash instead of permanent deletion
+
+# =========================================================
+# SPECIALIZED DATA PROCESSING
+# =========================================================
+
+# Document Processing
+PyPDF2>=3.0.0                  # PDF manipulation - extracts data from PDF documents
+python-docx>=0.8.0             # Word document processing - handles .docx files for data extraction
+markdown>=3.5.0                # Markdown processing - converts markdown to HTML for reports
+
+# Image Processing (for future features)
+imageio>=2.31.0                # Image I/O - supports various image formats
+scikit-image>=0.21.0           # Image processing - advanced image analysis capabilities
+opencv-python>=4.8.0           # Computer vision - image processing and analysis
+Pillow>=10.0.0                 # Python imaging library - basic image operations
+
+# Audio Processing (for future voice features)
+librosa>=0.10.0                # Audio analysis - processes audio signals for voice features
+soundfile>=0.12.0              # Audio file I/O - reads/writes various audio formats
+
+# =========================================================
+# MONITORING & OBSERVABILITY
+# =========================================================
+
+# Logging & Monitoring
+structlog>=23.2.0              # Structured logging - machine-readable log format
+coloredlogs>=15.0.1            # Colored logging - enhanced log readability during development
+sentry-sdk>=1.38.0             # Error tracking - production error monitoring and alerting
+prometheus-client>=0.19.0      # Metrics collection - system performance monitoring
+
+# Health & Status Monitoring
+healthcheck>=1.3.3             # Health check endpoints - service availability monitoring
+
+# =========================================================
+# SPECIALIZED ANALYSIS LIBRARIES
+# =========================================================
+
+# Time Series & Forecasting
+prophet>=1.1.4                 # Time series forecasting - predicts future trends in data
+statsforecast>=1.6.0           # Statistical forecasting - classical time series models
+
+# Network & Graph Analysis
+networkx>=3.2.0                # Graph analysis - analyzes relationships and networks in data
+igraph>=0.10.0                 # Fast graph library - efficient graph algorithms
+
+# Geospatial Analysis
+geopandas>=0.14.0              # Geospatial data analysis - handles geographic datasets
+folium>=0.15.0                 # Interactive maps - creates map visualizations
+
+# Financial Analysis (for Financial Agent)
+yfinance>=0.2.0                # Yahoo Finance data - fetches financial market data
+quantlib>=1.32.0               # Quantitative finance - advanced financial calculations
+
+# =========================================================
+# DATABASE & DATA STORAGE
+# =========================================================
+
+# SQL Databases
+SQLAlchemy>=2.0.0              # SQL toolkit - database ORM for enterprise data storage
+sqlite3                        # Built-in SQLite - used by shared knowledge base (no version required)
+alembic>=1.13.0                # Database migrations - manages database schema changes
+
+# NoSQL & Document Databases
+pymongo>=4.6.0                 # MongoDB - document storage for unstructured analysis results
+redis>=5.0.0                   # Redis - high-performance caching and session storage
+
+# =========================================================
+# OPTIONAL ADVANCED FEATURES
+# =========================================================
+
+# Large-Scale Processing (uncomment if needed)
+# dask>=2023.10.0               # Parallel computing - processes datasets larger than memory
+# ray>=2.8.0                    # Distributed computing - scales ML across multiple machines
+# polars>=0.20.0                # Fast DataFrame library - alternative to pandas for large datasets
+
+# ML Operations & Experiment Tracking
+# mlflow>=2.8.0                 # ML lifecycle management - tracks model experiments
+# wandb>=0.16.0                 # Experiment tracking - visualizes ML experiment results
+# gradio>=3.50.0                # ML model interfaces - creates web interfaces for models
+
+# Advanced UI Frameworks (for future React integration)
+# streamlit-elements>=0.1.0     # React components in Streamlit - advanced UI elements
+# streamlit-aggrid>=0.3.0       # Advanced data grids - enhanced data display
+
+# =========================================================
+# INSTALLATION INSTRUCTIONS
+# =========================================================
+
+# BASIC INSTALLATION (Core Meta Minds):
+# pip install pandas numpy openai crewai streamlit plotly
+
+# FULL INSTALLATION (All Features):
+# pip install -r config/requirements_detailed.txt
+
+# PRODUCTION INSTALLATION (Minimal):
+# pip install -r config/requirements.txt
+
+# DEVELOPMENT INSTALLATION (With Testing):
+# pip install -r config/requirements_detailed.txt
+
+# GPU ACCELERATION (Optional):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+# =========================================================
+# SYSTEM REQUIREMENTS
+# =========================================================
+
+# Python: 3.10+ (Required)
+# Memory: 4GB+ (8GB+ recommended for ML features)
+# Storage: 2GB+ for dependencies and models
+# OS: Windows 10+, macOS 10.15+, Ubuntu 18.04+
+# Network: Required for OpenAI API and enterprise integrations
+
+# =========================================================
+# ENVIRONMENT VARIABLES NEEDED
+# =========================================================
+
+# OPENAI_API_KEY=your_openai_api_key_here
+# SLACK_BOT_TOKEN=xoxb-your-slack-token (optional)
+# AWS_ACCESS_KEY_ID=your_aws_key (optional)
+# AWS_SECRET_ACCESS_KEY=your_aws_secret (optional)
+# SALESFORCE_USERNAME=your_sf_username (optional)
+# SALESFORCE_PASSWORD=your_sf_password (optional)
+# REDIS_URL=redis://localhost:6379 (optional)

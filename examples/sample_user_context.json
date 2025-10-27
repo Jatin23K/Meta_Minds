@@ -1,0 +1,29 @@
+[
+  {
+    "subject_area": "financial analysis",
+    "analysis_objectives": ["performance evaluation", "risk assessment"],
+    "target_audience": "executives",
+    "business_context": "quarterly board reporting and strategic planning",
+    "dataset_background": "Multi-year financial data for airline industry analysis",
+    "time_sensitivity": "high",
+    "timestamp": "2025-01-08T14:30:00"
+  },
+  {
+    "subject_area": "sales performance",
+    "analysis_objectives": ["revenue optimization", "customer segmentation"],
+    "target_audience": "sales managers",
+    "business_context": "regional sales strategy development",
+    "dataset_background": "Customer transaction data and sales metrics",
+    "time_sensitivity": "medium",
+    "timestamp": "2025-01-08T10:15:00"
+  },
+  {
+    "subject_area": "marketing analytics",
+    "analysis_objectives": ["campaign effectiveness", "roi analysis"],
+    "target_audience": "marketing directors",
+    "business_context": "annual marketing budget allocation planning",
+    "dataset_background": "Digital marketing campaign performance data",
+    "time_sensitivity": "medium",
+    "timestamp": "2025-01-07T16:45:00"
+  }
+]

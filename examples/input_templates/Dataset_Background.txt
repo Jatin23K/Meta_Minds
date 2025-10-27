@@ -1,0 +1,53 @@
+DATASET BACKGROUND INFORMATION
+==============================
+
+Project Title: Airline Financial Performance Risk Assessment
+
+Business Context:
+- Industry/Domain: Aviation/Airline Industry
+- Business Problem: Comprehensive financial risk assessment across airline operations from 2013-2023
+- Stakeholders: Executive leadership, financial analysts, risk management team
+
+Dataset Information:
+- Data Sources: 
+  * C:\Users\Jatin\Documents\Data\Airline[2013-2023]\Assets.csv
+  * C:\Users\Jatin\Documents\Data\Airline[2013-2023]\Liabilities.csv  
+  * C:\Users\Jatin\Documents\Data\Airline[2013-2023]\Top_10_Ratio.csv
+- Data Size: Multi-year airline financial data (2013-2023)
+- Data Quality: Historical financial records from airline operations
+- Time Period: 2013 to 2023 (11-year span covering pre-COVID, COVID impact, and recovery)
+
+Analysis Objectives:
+- Primary Goals: Sales performance evaluation and comprehensive risk assessment
+- Secondary Goals: Financial stability analysis, performance trends identification
+- Success Criteria: Identify risk factors, performance patterns, and strategic recommendations
+
+Timeline & Constraints:
+- Project Start: Current analysis cycle
+- Deadline: Executive board presentation required
+- Budget Constraints: Standard analytical resources
+- Technical Constraints: Focus on quantitative financial metrics
+
+Target Audience:
+- Primary: Executives and senior leadership
+- Technical Level: High-level strategic insights, minimal technical jargon
+- Presentation Format: Executive summary with actionable recommendations
+
+Business Context Details:
+- Subject Area: Sales performance analysis with focus on risk assessment
+- Business Context: General business analysis for strategic decision making
+- Time Sensitivity: Low urgency but thorough analysis required
+- Industry Focus: Aviation sector financial performance over decade-long period
+
+Expected Deliverables:
+- Reports: Comprehensive risk assessment reports
+- Visualizations: Financial trend charts, ratio analysis dashboards
+- Recommendations: Strategic insights for risk mitigation and performance optimization
+
+Dataset Specifics:
+- Assets.csv: Current assets data across airline carriers and time periods
+- Liabilities.csv: Current liabilities information for financial obligation analysis  
+- Top_10_Ratio.csv: Key financial ratios for performance benchmarking
+
+Notes:
+This analysis covers a critical period in aviation history including economic fluctuations, COVID-19 pandemic impact, and industry recovery phases. Focus on identifying patterns that indicate financial resilience and risk factors for executive strategic planning.

@@ -1,0 +1,2441 @@
+UNIQUE_CARRIER, Description, QUARTER,Sum(CURR_LIABILITIES),Year
+0JQ,Vision Airlines,1,30509.0,2013
+0JQ,Vision Airlines,2,31700.0,2013
+0JQ,Vision Airlines,3,32577.0,2013
+0JQ,Vision Airlines,4,32652.0,2013
+0WQ,Avjet Corporation,1,8087.0,2013
+0WQ,Avjet Corporation,2,8859.0,2013
+0WQ,Avjet Corporation,3,7231.0,2013
+0WQ,Avjet Corporation,4,7593.0,2013
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,6176.0,2013
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,6196.0,2013
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,5929.0,2013
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,4410.0,2013
+5X,United Parcel Service,1,645110.0,2013
+5X,United Parcel Service,2,679250.0,2013
+5X,United Parcel Service,3,669777.0,2013
+5X,United Parcel Service,4,722315.0,2013
+5Y,Atlas Air Inc.,1,370077.0,2013
+5Y,Atlas Air Inc.,2,378379.0,2013
+5Y,Atlas Air Inc.,3,382569.0,2013
+5Y,Atlas Air Inc.,4,382569.0,2013
+8C,Air Transport International,1,22668.0,2013
+8C,Air Transport International,2,27084.0,2013
+8C,Air Transport International,3,21822.0,2013
+8C,Air Transport International,4,31307.0,2013
+9E,Endeavor Air Inc.,1,391089.0,2013
+9E,Endeavor Air Inc.,2,152938.0,2013
+9E,Endeavor Air Inc.,3,138386.0,2013
+9E,Endeavor Air Inc.,4,92813.0,2013
+9S,Southern Air Inc.,1,92584.0,2013
+9S,Southern Air Inc.,2,35863.0,2013
+9S,Southern Air Inc.,3,30904.0,2013
+9S,Southern Air Inc.,4,725.0,2013
+AA,American Airlines Inc.,1,12611108.0,2013
+AA,American Airlines Inc.,2,13310239.0,2013
+AA,American Airlines Inc.,3,12764929.0,2013
+AA,American Airlines Inc.,4,12239685.0,2013
+ABX,ABX Air Inc,1,46602.0,2013
+ABX,ABX Air Inc,2,52122.0,2013
+ABX,ABX Air Inc,3,50358.0,2013
+ABX,ABX Air Inc,4,50240.0,2013
+AS,Alaska Airlines Inc.,1,1711555.0,2013
+AS,Alaska Airlines Inc.,2,1865062.0,2013
+AS,Alaska Airlines Inc.,3,1806713.0,2013
+AS,Alaska Airlines Inc.,4,1819592.0,2013
+B6,JetBlue Airways,1,1961659.0,2013
+B6,JetBlue Airways,2,2122390.0,2013
+B6,JetBlue Airways,3,2033328.0,2013
+B6,JetBlue Airways,4,1874037.0,2013
+CP (2),Compass Airlines,1,12355.0,2013
+CP (2),Compass Airlines,2,12906.0,2013
+CP (2),Compass Airlines,3,14733.0,2013
+CP (2),Compass Airlines,4,12742.0,2013
+DL,Delta Air Lines Inc.,1,14366620.0,2013
+DL,Delta Air Lines Inc.,2,15031510.0,2013
+DL,Delta Air Lines Inc.,3,14417017.0,2013
+DL,Delta Air Lines Inc.,4,14448266.0,2013
+EV,ExpressJet Airlines LLC d/b/a aha!,1,269524.0,2013
+EV,ExpressJet Airlines LLC d/b/a aha!,2,259913.0,2013
+EV,ExpressJet Airlines LLC d/b/a aha!,3,274097.0,2013
+EV,ExpressJet Airlines LLC d/b/a aha!,4,265765.0,2013
+EZ,Evergreen International Inc.,1,91505.0,2013
+EZ,Evergreen International Inc.,2,113019.0,2013
+EZ,Evergreen International Inc.,3,118993.0,2013
+EZ,Evergreen International Inc.,4,,2013
+F9,Frontier Airlines Inc.,1,397432.0,2013
+F9,Frontier Airlines Inc.,2,403200.0,2013
+F9,Frontier Airlines Inc.,3,359930.0,2013
+F9,Frontier Airlines Inc.,4,350820.0,2013
+FX,Federal Express Corporation,1,4236100.0,2013
+FX,Federal Express Corporation,2,4311776.0,2013
+FX,Federal Express Corporation,3,4282765.0,2013
+FX,Federal Express Corporation,4,3877715.0,2013
+G4,Allegiant Air,1,255333.0,2013
+G4,Allegiant Air,2,247004.0,2013
+G4,Allegiant Air,3,226393.0,2013
+G4,Allegiant Air,4,251362.0,2013
+G7,GoJet Airlines LLC d/b/a United Express,1,32605.0,2013
+G7,GoJet Airlines LLC d/b/a United Express,2,31991.0,2013
+G7,GoJet Airlines LLC d/b/a United Express,3,35470.0,2013
+G7,GoJet Airlines LLC d/b/a United Express,4,32768.0,2013
+GFQ,Gulf And Caribbean Cargo,1,19538.0,2013
+GFQ,Gulf And Caribbean Cargo,2,22365.0,2013
+GFQ,Gulf And Caribbean Cargo,3,17528.0,2013
+GFQ,Gulf And Caribbean Cargo,4,18999.0,2013
+GL,Miami Air International,1,19130.0,2013
+GL,Miami Air International,2,18056.0,2013
+GL,Miami Air International,3,14629.0,2013
+GL,Miami Air International,4,21116.0,2013
+HA,Hawaiian Airlines Inc.,1,747847.0,2013
+HA,Hawaiian Airlines Inc.,2,805221.0,2013
+HA,Hawaiian Airlines Inc.,3,739918.0,2013
+HA,Hawaiian Airlines Inc.,4,654800.0,2013
+KAQ,Kalitta Air LLC,1,94054.0,2013
+KAQ,Kalitta Air LLC,2,94356.0,2013
+KAQ,Kalitta Air LLC,3,96585.0,2013
+KAQ,Kalitta Air LLC,4,96167.0,2013
+KH,Aloha Air Cargo,1,5202.0,2013
+KH,Aloha Air Cargo,2,5454.0,2013
+KH,Aloha Air Cargo,3,3902.0,2013
+KH,Aloha Air Cargo,4,6183.0,2013
+KLQ,Kalitta Charters II,1,1474.0,2013
+KLQ,Kalitta Charters II,2,1356.0,2013
+KLQ,Kalitta Charters II,3,2774.0,2013
+KLQ,Kalitta Charters II,4,1665.0,2013
+L2,Lynden Air Cargo Airlines,1,8401.0,2013
+L2,Lynden Air Cargo Airlines,2,8492.0,2013
+L2,Lynden Air Cargo Airlines,3,8159.0,2013
+L2,Lynden Air Cargo Airlines,4,4774.0,2013
+M6,Amerijet International,1,46449.0,2013
+M6,Amerijet International,2,45843.0,2013
+M6,Amerijet International,3,47908.0,2013
+M6,Amerijet International,4,49342.0,2013
+MQ,Envoy Air,1,196405.0,2013
+MQ,Envoy Air,2,202344.0,2013
+MQ,Envoy Air,3,202344.0,2013
+MQ,Envoy Air,4,192407.0,2013
+N8,National Air Cargo Group Inc d/ba National Airlines,1,18962.0,2013
+N8,National Air Cargo Group Inc d/ba National Airlines,2,-26841.0,2013
+N8,National Air Cargo Group Inc d/ba National Airlines,3,21681.0,2013
+N8,National Air Cargo Group Inc d/ba National Airlines,4,22895.0,2013
+,North American Airlines,1,16531.0,2013
+,North American Airlines,2,11158.0,2013
+,North American Airlines,3,4617.0,2013
+,North American Airlines,4,15065.0,2013
+NC,Northern Air Cargo Inc.,1,7819.0,2013
+NC,Northern Air Cargo Inc.,2,10407.0,2013
+NC,Northern Air Cargo Inc.,3,7869.0,2013
+NC,Northern Air Cargo Inc.,4,8472.0,2013
+NK,Spirit Air Lines,1,343262.0,2013
+NK,Spirit Air Lines,2,380399.0,2013
+NK,Spirit Air Lines,3,333893.0,2013
+NK,Spirit Air Lines,4,339336.0,2013
+OH,PSA Airlines Inc.,1,131082.0,2013
+OH,PSA Airlines Inc.,2,126787.0,2013
+OH,PSA Airlines Inc.,3,120806.0,2013
+OH,PSA Airlines Inc.,4,129463.0,2013
+OO,SkyWest Airlines Inc.,1,487990.0,2013
+OO,SkyWest Airlines Inc.,2,512135.0,2013
+OO,SkyWest Airlines Inc.,3,526646.0,2013
+OO,SkyWest Airlines Inc.,4,550663.0,2013
+OW,Executive Airlines,1,16796.0,2013
+OW,Executive Airlines,2,,2013
+OW,Executive Airlines,3,,2013
+OW,Executive Airlines,4,,2013
+PFQ,Asia Pacific,1,3600.0,2013
+PFQ,Asia Pacific,2,3582.0,2013
+PFQ,Asia Pacific,3,3558.0,2013
+PFQ,Asia Pacific,4,3061.0,2013
+PO,Polar Air Cargo Airways,1,74740.0,2013
+PO,Polar Air Cargo Airways,2,74860.0,2013
+PO,Polar Air Cargo Airways,3,78170.0,2013
+PO,Polar Air Cargo Airways,4,65813.0,2013
+PRQ,Florida West Airlines Inc.,1,3997.0,2013
+PRQ,Florida West Airlines Inc.,2,4081.0,2013
+PRQ,Florida West Airlines Inc.,3,3950.0,2013
+PRQ,Florida West Airlines Inc.,4,3531.0,2013
+QX,Horizon Air,1,227126.0,2013
+QX,Horizon Air,2,270910.0,2013
+QX,Horizon Air,3,265440.0,2013
+QX,Horizon Air,4,247271.0,2013
+RP,Chautauqua Airlines Inc.,1,94912.0,2013
+RP,Chautauqua Airlines Inc.,2,91628.0,2013
+RP,Chautauqua Airlines Inc.,3,97772.0,2013
+RP,Chautauqua Airlines Inc.,4,101271.0,2013
+S5,Shuttle America Corp.,1,135651.0,2013
+S5,Shuttle America Corp.,2,108014.0,2013
+S5,Shuttle America Corp.,3,110452.0,2013
+S5,Shuttle America Corp.,4,-1506.0,2013
+SLQ,Sky King Inc.,1,12032.0,2013
+SLQ,Sky King Inc.,2,12615.0,2013
+SLQ,Sky King Inc.,3,12777.0,2013
+SLQ,Sky King Inc.,4,13707.0,2013
+SY,Sun Country Airlines d/b/a MN Airlines,1,75184.0,2013
+SY,Sun Country Airlines d/b/a MN Airlines,2,75435.0,2013
+SY,Sun Country Airlines d/b/a MN Airlines,3,80644.0,2013
+SY,Sun Country Airlines d/b/a MN Airlines,4,91626.0,2013
+U7,USA Jet Airlines Inc.,1,38293.0,2013
+U7,USA Jet Airlines Inc.,2,37129.0,2013
+U7,USA Jet Airlines Inc.,3,53499.0,2013
+U7,USA Jet Airlines Inc.,4,50284.0,2013
+UA,United Air Lines Inc.,1,13041706.0,2013
+UA,United Air Lines Inc.,2,13043723.0,2013
+UA,United Air Lines Inc.,3,12712401.0,2013
+UA,United Air Lines Inc.,4,12224720.0,2013
+US,US Airways Inc.,1,4411027.0,2013
+US,US Airways Inc.,2,3685674.0,2013
+US,US Airways Inc.,3,3635089.0,2013
+US,US Airways Inc.,4,4438217.0,2013
+VX,Virgin America,1,314434.0,2013
+VX,Virgin America,2,336390.0,2013
+VX,Virgin America,3,290474.0,2013
+VX,Virgin America,4,248020.0,2013
+WE,Centurion Cargo Inc.,1,70628.0,2013
+WE,Centurion Cargo Inc.,2,62027.0,2013
+WE,Centurion Cargo Inc.,3,76670.0,2013
+WE,Centurion Cargo Inc.,4,76238.0,2013
+WI,Sky Lease Cargo,1,29545.0,2013
+WI,Sky Lease Cargo,2,22443.0,2013
+WI,Sky Lease Cargo,3,3305.0,2013
+WI,Sky Lease Cargo,4,934.0,2013
+WN,Southwest Airlines Co.,1,5411263.0,2013
+WN,Southwest Airlines Co.,2,5778736.0,2013
+WN,Southwest Airlines Co.,3,5546378.0,2013
+WN,Southwest Airlines Co.,4,5676195.0,2013
+WO (1),World Airways Inc.,1,128436.0,2013
+WO (1),World Airways Inc.,2,134009.0,2013
+WO (1),World Airways Inc.,3,152469.0,2013
+WO (1),World Airways Inc.,4,157840.0,2013
+WP,Island Air Hawaii,1,11553.0,2013
+WP,Island Air Hawaii,2,8761.0,2013
+WP,Island Air Hawaii,3,6749.0,2013
+WP,Island Air Hawaii,4,8405.0,2013
+X9,Omni Air International LLC,1,35588.0,2013
+X9,Omni Air International LLC,2,37064.0,2013
+X9,Omni Air International LLC,3,30225.0,2013
+X9,Omni Air International LLC,4,26536.0,2013
+XP,TEM Enterprises dba  Avelo Airlines,1,6578.0,2013
+XP,TEM Enterprises dba  Avelo Airlines,2,8771.0,2013
+XP,TEM Enterprises dba  Avelo Airlines,3,9361.0,2013
+XP,TEM Enterprises dba  Avelo Airlines,4,8347.0,2013
+YV,Mesa Airlines Inc.,1,-25550.0,2013
+YV,Mesa Airlines Inc.,2,-20218.0,2013
+YV,Mesa Airlines Inc.,3,-5977.0,2013
+YV,Mesa Airlines Inc.,4,-10124.0,2013
+YX,Republic Airline,1,388235.0,2013
+YX,Republic Airline,2,272129.0,2013
+YX,Republic Airline,3,301512.0,2013
+YX,Republic Airline,4,372415.0,2013
+ZW,Air Wisconsin Airlines Corp,1,122809.0,2013
+ZW,Air Wisconsin Airlines Corp,2,123794.0,2013
+ZW,Air Wisconsin Airlines Corp,3,128225.0,2013
+ZW,Air Wisconsin Airlines Corp,4,149428.0,2013
+All Rows,All Rows (including those not displayed),1,64331429.0,2013
+All Rows,All Rows (including those not displayed),2,65470491.0,2013
+All Rows,All Rows (including those not displayed),3,63416325.0,2013
+All Rows,All Rows (including those not displayed),4,62560951.0,2013
+0JQ,Vision Airlines,1,34187.0,2014
+0JQ,Vision Airlines,2,30475.0,2014
+0JQ,Vision Airlines,3,19878.0,2014
+0JQ,Vision Airlines,4,13055.0,2014
+0WQ,Avjet Corporation,1,9596.0,2014
+0WQ,Avjet Corporation,2,10730.0,2014
+0WQ,Avjet Corporation,3,10529.0,2014
+0WQ,Avjet Corporation,4,12077.0,2014
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,5237.0,2014
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,6078.0,2014
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,5908.0,2014
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,4538.0,2014
+5X,United Parcel Service,1,776360.0,2014
+5X,United Parcel Service,2,723945.0,2014
+5X,United Parcel Service,3,706653.0,2014
+5X,United Parcel Service,4,672174.0,2014
+5Y,Atlas Air Inc.,1,326803.0,2014
+5Y,Atlas Air Inc.,2,334069.0,2014
+5Y,Atlas Air Inc.,3,316647.0,2014
+5Y,Atlas Air Inc.,4,332167.0,2014
+8C,Air Transport International,1,28862.0,2014
+8C,Air Transport International,2,28951.0,2014
+8C,Air Transport International,3,32422.0,2014
+8C,Air Transport International,4,46639.0,2014
+9E,Endeavor Air Inc.,1,89267.0,2014
+9E,Endeavor Air Inc.,2,96163.0,2014
+9E,Endeavor Air Inc.,3,96409.0,2014
+9E,Endeavor Air Inc.,4,101499.0,2014
+9S,Southern Air Inc.,1,31083.0,2014
+9S,Southern Air Inc.,2,28683.0,2014
+9S,Southern Air Inc.,3,28037.0,2014
+9S,Southern Air Inc.,4,30269.0,2014
+AA,American Airlines Inc.,1,12564534.0,2014
+AA,American Airlines Inc.,2,12612883.0,2014
+AA,American Airlines Inc.,3,12467391.0,2014
+AA,American Airlines Inc.,4,11519669.0,2014
+ABX,ABX Air Inc,1,51396.0,2014
+ABX,ABX Air Inc,2,54172.0,2014
+ABX,ABX Air Inc,3,57769.0,2014
+ABX,ABX Air Inc,4,56393.0,2014
+AS,Alaska Airlines Inc.,1,2009744.0,2014
+AS,Alaska Airlines Inc.,2,2143961.0,2014
+AS,Alaska Airlines Inc.,3,2034260.0,2014
+AS,Alaska Airlines Inc.,4,2126957.0,2014
+B6,JetBlue Airways,1,1945773.0,2014
+B6,JetBlue Airways,2,1934377.0,2014
+B6,JetBlue Airways,3,1916655.0,2014
+B6,JetBlue Airways,4,1936482.0,2014
+CP (2),Compass Airlines,1,12882.0,2014
+CP (2),Compass Airlines,2,15508.0,2014
+CP (2),Compass Airlines,3,14231.0,2014
+CP (2),Compass Airlines,4,12023.0,2014
+DL,Delta Air Lines Inc.,1,15396248.0,2014
+DL,Delta Air Lines Inc.,2,15566848.0,2014
+DL,Delta Air Lines Inc.,3,15177028.0,2014
+DL,Delta Air Lines Inc.,4,17257570.0,2014
+EV,ExpressJet Airlines LLC d/b/a aha!,1,265765.0,2014
+EV,ExpressJet Airlines LLC d/b/a aha!,2,268932.0,2014
+EV,ExpressJet Airlines LLC d/b/a aha!,3,277802.0,2014
+EV,ExpressJet Airlines LLC d/b/a aha!,4,281838.0,2014
+F9,Frontier Airlines Inc.,1,385983.0,2014
+F9,Frontier Airlines Inc.,2,445289.0,2014
+F9,Frontier Airlines Inc.,3,426195.0,2014
+F9,Frontier Airlines Inc.,4,402264.0,2014
+FX,Federal Express Corporation,1,4300730.0,2014
+FX,Federal Express Corporation,2,4346566.0,2014
+FX,Federal Express Corporation,3,4226371.0,2014
+FX,Federal Express Corporation,4,3639054.0,2014
+G4,Allegiant Air,1,299616.0,2014
+G4,Allegiant Air,2,314025.0,2014
+G4,Allegiant Air,3,321222.0,2014
+G4,Allegiant Air,4,313121.0,2014
+G7,GoJet Airlines LLC d/b/a United Express,1,35714.0,2014
+G7,GoJet Airlines LLC d/b/a United Express,2,33301.0,2014
+G7,GoJet Airlines LLC d/b/a United Express,3,34860.0,2014
+G7,GoJet Airlines LLC d/b/a United Express,4,32038.0,2014
+GFQ,Gulf And Caribbean Cargo,1,20860.0,2014
+GFQ,Gulf And Caribbean Cargo,2,18383.0,2014
+GFQ,Gulf And Caribbean Cargo,3,21461.0,2014
+GFQ,Gulf And Caribbean Cargo,4,22886.0,2014
+GL,Miami Air International,1,16573.0,2014
+GL,Miami Air International,2,18313.0,2014
+GL,Miami Air International,3,19133.0,2014
+GL,Miami Air International,4,21264.0,2014
+HA,Hawaiian Airlines Inc.,1,757452.0,2014
+HA,Hawaiian Airlines Inc.,2,792904.0,2014
+HA,Hawaiian Airlines Inc.,3,768816.0,2014
+HA,Hawaiian Airlines Inc.,4,747649.0,2014
+KAQ,Kalitta Air LLC,1,97314.0,2014
+KAQ,Kalitta Air LLC,2,104511.0,2014
+KAQ,Kalitta Air LLC,3,105314.0,2014
+KAQ,Kalitta Air LLC,4,93056.0,2014
+KD,Western Global,1,,2014
+KD,Western Global,2,,2014
+KD,Western Global,3,1283.0,2014
+KD,Western Global,4,1750.0,2014
+KH,Aloha Air Cargo,1,6576.0,2014
+KH,Aloha Air Cargo,2,4386.0,2014
+KH,Aloha Air Cargo,3,4787.0,2014
+KH,Aloha Air Cargo,4,5582.0,2014
+KLQ,Kalitta Charters II,1,2349.0,2014
+KLQ,Kalitta Charters II,2,1259.0,2014
+KLQ,Kalitta Charters II,3,1973.0,2014
+KLQ,Kalitta Charters II,4,1158.0,2014
+L2,Lynden Air Cargo Airlines,1,4313.0,2014
+L2,Lynden Air Cargo Airlines,2,2979.0,2014
+L2,Lynden Air Cargo Airlines,3,4260.0,2014
+L2,Lynden Air Cargo Airlines,4,5811.0,2014
+M6,Amerijet International,1,48654.0,2014
+M6,Amerijet International,2,48801.0,2014
+M6,Amerijet International,3,56682.0,2014
+M6,Amerijet International,4,52523.0,2014
+MQ,Envoy Air,1,140779.0,2014
+MQ,Envoy Air,2,133250.0,2014
+MQ,Envoy Air,3,137824.0,2014
+MQ,Envoy Air,4,112182.0,2014
+N8,National Air Cargo Group Inc d/ba National Airlines,1,18864.0,2014
+N8,National Air Cargo Group Inc d/ba National Airlines,2,23948.0,2014
+N8,National Air Cargo Group Inc d/ba National Airlines,3,35383.0,2014
+N8,National Air Cargo Group Inc d/ba National Airlines,4,50955.0,2014
+,North American Airlines,1,10354.0,2014
+,North American Airlines,2,,2014
+,North American Airlines,3,,2014
+,North American Airlines,4,,2014
+NC,Northern Air Cargo Inc.,1,5437.0,2014
+NC,Northern Air Cargo Inc.,2,3696.0,2014
+NC,Northern Air Cargo Inc.,3,1465.0,2014
+NC,Northern Air Cargo Inc.,4,696.0,2014
+NK,Spirit Air Lines,1,420423.0,2014
+NK,Spirit Air Lines,2,406309.0,2014
+NK,Spirit Air Lines,3,401808.0,2014
+NK,Spirit Air Lines,4,373902.0,2014
+OH,PSA Airlines Inc.,1,126991.0,2014
+OH,PSA Airlines Inc.,2,139011.0,2014
+OH,PSA Airlines Inc.,3,159091.0,2014
+OH,PSA Airlines Inc.,4,172161.0,2014
+OO,SkyWest Airlines Inc.,1,551912.0,2014
+OO,SkyWest Airlines Inc.,2,584121.0,2014
+OO,SkyWest Airlines Inc.,3,613621.0,2014
+OO,SkyWest Airlines Inc.,4,539420.0,2014
+PFQ,Asia Pacific,1,3557.0,2014
+PFQ,Asia Pacific,2,3637.0,2014
+PFQ,Asia Pacific,3,3590.0,2014
+PFQ,Asia Pacific,4,3138.0,2014
+PO,Polar Air Cargo Airways,1,66785.0,2014
+PO,Polar Air Cargo Airways,2,75461.0,2014
+PO,Polar Air Cargo Airways,3,135328.0,2014
+PO,Polar Air Cargo Airways,4,81139.0,2014
+PRQ,Florida West Airlines Inc.,1,2999.0,2014
+PRQ,Florida West Airlines Inc.,2,2900.0,2014
+PRQ,Florida West Airlines Inc.,3,897.0,2014
+PRQ,Florida West Airlines Inc.,4,744.0,2014
+QX,Horizon Air,1,267380.0,2014
+QX,Horizon Air,2,234260.0,2014
+QX,Horizon Air,3,219150.0,2014
+QX,Horizon Air,4,201242.0,2014
+RP,Chautauqua Airlines Inc.,1,100187.0,2014
+RP,Chautauqua Airlines Inc.,2,95089.0,2014
+RP,Chautauqua Airlines Inc.,3,102907.0,2014
+RP,Chautauqua Airlines Inc.,4,89404.0,2014
+S5,Shuttle America Corp.,1,138779.0,2014
+S5,Shuttle America Corp.,2,132778.0,2014
+S5,Shuttle America Corp.,3,135665.0,2014
+S5,Shuttle America Corp.,4,121763.0,2014
+SY,Sun Country Airlines d/b/a MN Airlines,1,82642.0,2014
+SY,Sun Country Airlines d/b/a MN Airlines,2,94760.0,2014
+SY,Sun Country Airlines d/b/a MN Airlines,3,102325.0,2014
+SY,Sun Country Airlines d/b/a MN Airlines,4,141796.0,2014
+U7,USA Jet Airlines Inc.,1,71359.0,2014
+U7,USA Jet Airlines Inc.,2,47394.0,2014
+U7,USA Jet Airlines Inc.,3,66453.0,2014
+U7,USA Jet Airlines Inc.,4,46461.0,2014
+UA,United Air Lines Inc.,1,13188115.0,2014
+UA,United Air Lines Inc.,2,13429856.0,2014
+UA,United Air Lines Inc.,3,12868410.0,2014
+UA,United Air Lines Inc.,4,12512618.0,2014
+US,US Airways Inc.,1,5069838.0,2014
+US,US Airways Inc.,2,5159004.0,2014
+US,US Airways Inc.,3,4694083.0,2014
+US,US Airways Inc.,4,4338360.0,2014
+VX,Virgin America,1,365049.0,2014
+VX,Virgin America,2,365841.0,2014
+VX,Virgin America,3,336072.0,2014
+VX,Virgin America,4,337847.0,2014
+WE,Centurion Cargo Inc.,1,90110.0,2014
+WE,Centurion Cargo Inc.,2,97529.0,2014
+WE,Centurion Cargo Inc.,3,95837.0,2014
+WE,Centurion Cargo Inc.,4,75828.0,2014
+WI,Sky Lease Cargo,1,25806.0,2014
+WI,Sky Lease Cargo,2,23087.0,2014
+WI,Sky Lease Cargo,3,25812.0,2014
+WI,Sky Lease Cargo,4,14644.0,2014
+WN,Southwest Airlines Co.,1,6440721.0,2014
+WN,Southwest Airlines Co.,2,7027179.0,2014
+WN,Southwest Airlines Co.,3,6445840.0,2014
+WN,Southwest Airlines Co.,4,5922560.0,2014
+WP,Island Air Hawaii,1,31019.0,2014
+WP,Island Air Hawaii,2,33536.0,2014
+WP,Island Air Hawaii,3,33999.0,2014
+WP,Island Air Hawaii,4,9350.0,2014
+X9,Omni Air International LLC,1,23643.0,2014
+X9,Omni Air International LLC,2,45261.0,2014
+X9,Omni Air International LLC,3,33584.0,2014
+X9,Omni Air International LLC,4,32005.0,2014
+XP,TEM Enterprises dba  Avelo Airlines,1,8792.0,2014
+XP,TEM Enterprises dba  Avelo Airlines,2,9899.0,2014
+XP,TEM Enterprises dba  Avelo Airlines,3,10870.0,2014
+XP,TEM Enterprises dba  Avelo Airlines,4,4035.0,2014
+YV,Mesa Airlines Inc.,1,-11686.0,2014
+YV,Mesa Airlines Inc.,2,-1766.0,2014
+YV,Mesa Airlines Inc.,3,20681.0,2014
+YV,Mesa Airlines Inc.,4,9912.0,2014
+YX,Republic Airline,1,196511.0,2014
+YX,Republic Airline,2,216195.0,2014
+YX,Republic Airline,3,224806.0,2014
+YX,Republic Airline,4,235788.0,2014
+ZW,Air Wisconsin Airlines Corp,1,164261.0,2014
+ZW,Air Wisconsin Airlines Corp,2,164880.0,2014
+ZW,Air Wisconsin Airlines Corp,3,158674.0,2014
+ZW,Air Wisconsin Airlines Corp,4,161501.0,2014
+All Rows,All Rows (including those not displayed),1,67124494.0,2014
+All Rows,All Rows (including those not displayed),2,68533607.0,2014
+All Rows,All Rows (including those not displayed),3,66218149.0,2014
+All Rows,All Rows (including those not displayed),4,65330955.0,2014
+0JQ,Vision Airlines,1,15408.0,2015
+0JQ,Vision Airlines,2,15448.0,2015
+0JQ,Vision Airlines,3,,2015
+0JQ,Vision Airlines,4,,2015
+0WQ,Avjet Corporation,1,12289.0,2015
+0WQ,Avjet Corporation,2,14653.0,2015
+0WQ,Avjet Corporation,3,10092.0,2015
+0WQ,Avjet Corporation,4,12274.0,2015
+23Q,Songbird Airways Inc.,1,863.0,2015
+23Q,Songbird Airways Inc.,2,706.0,2015
+23Q,Songbird Airways Inc.,3,495.0,2015
+23Q,Songbird Airways Inc.,4,1041.0,2015
+27Q,"Jet Aviation Flight Services, Inc.",1,,2015
+27Q,"Jet Aviation Flight Services, Inc.",2,,2015
+27Q,"Jet Aviation Flight Services, Inc.",3,36019.0,2015
+27Q,"Jet Aviation Flight Services, Inc.",4,36952.0,2015
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,5198.0,2015
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,5818.0,2015
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,5446.0,2015
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,3110.0,2015
+5X,United Parcel Service,1,621539.0,2015
+5X,United Parcel Service,2,643910.0,2015
+5X,United Parcel Service,3,659671.0,2015
+5X,United Parcel Service,4,668808.0,2015
+5Y,Atlas Air Inc.,1,351720.0,2015
+5Y,Atlas Air Inc.,2,335347.0,2015
+5Y,Atlas Air Inc.,3,319949.0,2015
+5Y,Atlas Air Inc.,4,343844.0,2015
+8C,Air Transport International,1,23633.0,2015
+8C,Air Transport International,2,20108.0,2015
+8C,Air Transport International,3,19938.0,2015
+8C,Air Transport International,4,16658.0,2015
+9E,Endeavor Air Inc.,1,71183.0,2015
+9E,Endeavor Air Inc.,2,73513.0,2015
+9E,Endeavor Air Inc.,3,72714.0,2015
+9E,Endeavor Air Inc.,4,97141.0,2015
+9S,Southern Air Inc.,1,23091.0,2015
+9S,Southern Air Inc.,2,14501.0,2015
+9S,Southern Air Inc.,3,14584.0,2015
+9S,Southern Air Inc.,4,27545.0,2015
+AA,American Airlines Inc.,1,12447316.0,2015
+AA,American Airlines Inc.,2,13254898.0,2015
+AA,American Airlines Inc.,3,14146174.0,2015
+AA,American Airlines Inc.,4,13377518.0,2015
+ABX,ABX Air Inc,1,59937.0,2015
+ABX,ABX Air Inc,2,54038.0,2015
+ABX,ABX Air Inc,3,57870.0,2015
+ABX,ABX Air Inc,4,68076.0,2015
+AS,Alaska Airlines Inc.,1,2273161.0,2015
+AS,Alaska Airlines Inc.,2,2329658.0,2015
+AS,Alaska Airlines Inc.,3,2271056.0,2015
+AS,Alaska Airlines Inc.,4,2644681.0,2015
+B6,JetBlue Airways,1,2202964.0,2015
+B6,JetBlue Airways,2,2185456.0,2015
+B6,JetBlue Airways,3,2226411.0,2015
+B6,JetBlue Airways,4,2274845.0,2015
+CP (2),Compass Airlines,1,12980.0,2015
+CP (2),Compass Airlines,2,20572.0,2015
+CP (2),Compass Airlines,3,16333.0,2015
+CP (2),Compass Airlines,4,17952.0,2015
+DL,Delta Air Lines Inc.,1,17704998.0,2015
+DL,Delta Air Lines Inc.,2,17459466.0,2015
+DL,Delta Air Lines Inc.,3,17991746.0,2015
+DL,Delta Air Lines Inc.,4,17526653.0,2015
+EE,Eastern Airlines Group Inc.,1,,2015
+EE,Eastern Airlines Group Inc.,2,,2015
+EE,Eastern Airlines Group Inc.,3,5476.0,2015
+EE,Eastern Airlines Group Inc.,4,8990.0,2015
+EV,ExpressJet Airlines LLC d/b/a aha!,1,312352.0,2015
+EV,ExpressJet Airlines LLC d/b/a aha!,2,336243.0,2015
+EV,ExpressJet Airlines LLC d/b/a aha!,3,324698.0,2015
+EV,ExpressJet Airlines LLC d/b/a aha!,4,397522.0,2015
+F9,Frontier Airlines Inc.,1,471123.0,2015
+F9,Frontier Airlines Inc.,2,480941.0,2015
+F9,Frontier Airlines Inc.,3,527606.0,2015
+F9,Frontier Airlines Inc.,4,487936.0,2015
+FCQ,Falcon Air Express,1,17526.0,2015
+FCQ,Falcon Air Express,2,,2015
+FCQ,Falcon Air Express,3,,2015
+FCQ,Falcon Air Express,4,,2015
+FX,Federal Express Corporation,1,3884224.0,2015
+FX,Federal Express Corporation,2,3528546.0,2015
+FX,Federal Express Corporation,3,3667879.0,2015
+FX,Federal Express Corporation,4,3383872.0,2015
+G4,Allegiant Air,1,369516.0,2015
+G4,Allegiant Air,2,368570.0,2015
+G4,Allegiant Air,3,356328.0,2015
+G4,Allegiant Air,4,352235.0,2015
+G7,GoJet Airlines LLC d/b/a United Express,1,33169.0,2015
+G7,GoJet Airlines LLC d/b/a United Express,2,39686.0,2015
+G7,GoJet Airlines LLC d/b/a United Express,3,48955.0,2015
+G7,GoJet Airlines LLC d/b/a United Express,4,47543.0,2015
+GFQ,Gulf And Caribbean Cargo,1,23456.0,2015
+GFQ,Gulf And Caribbean Cargo,2,24107.0,2015
+GFQ,Gulf And Caribbean Cargo,3,25249.0,2015
+GFQ,Gulf And Caribbean Cargo,4,22839.0,2015
+GL,Miami Air International,1,14839.0,2015
+GL,Miami Air International,2,16342.0,2015
+GL,Miami Air International,3,16384.0,2015
+GL,Miami Air International,4,18002.0,2015
+HA,Hawaiian Airlines Inc.,1,842014.0,2015
+HA,Hawaiian Airlines Inc.,2,861887.0,2015
+HA,Hawaiian Airlines Inc.,3,812207.0,2015
+HA,Hawaiian Airlines Inc.,4,764069.0,2015
+KAQ,Kalitta Air LLC,1,66685.0,2015
+KAQ,Kalitta Air LLC,2,59637.0,2015
+KAQ,Kalitta Air LLC,3,59370.0,2015
+KAQ,Kalitta Air LLC,4,60429.0,2015
+KD,Western Global,1,2219.0,2015
+KD,Western Global,2,2171.0,2015
+KD,Western Global,3,2260.0,2015
+KD,Western Global,4,5921.0,2015
+KH,Aloha Air Cargo,1,23145.0,2015
+KH,Aloha Air Cargo,2,24956.0,2015
+KH,Aloha Air Cargo,3,28206.0,2015
+KH,Aloha Air Cargo,4,23832.0,2015
+KLQ,Kalitta Charters II,1,2364.0,2015
+KLQ,Kalitta Charters II,2,3086.0,2015
+KLQ,Kalitta Charters II,3,2595.0,2015
+KLQ,Kalitta Charters II,4,1646.0,2015
+L2,Lynden Air Cargo Airlines,1,5096.0,2015
+L2,Lynden Air Cargo Airlines,2,5046.0,2015
+L2,Lynden Air Cargo Airlines,3,5668.0,2015
+L2,Lynden Air Cargo Airlines,4,7463.0,2015
+M6,Amerijet International,1,52645.0,2015
+M6,Amerijet International,2,55793.0,2015
+M6,Amerijet International,3,49287.0,2015
+M6,Amerijet International,4,65920.0,2015
+MQ,Envoy Air,1,91479.0,2015
+MQ,Envoy Air,2,90377.0,2015
+MQ,Envoy Air,3,91980.0,2015
+MQ,Envoy Air,4,86211.0,2015
+N8,National Air Cargo Group Inc d/ba National Airlines,1,46934.0,2015
+N8,National Air Cargo Group Inc d/ba National Airlines,2,49269.0,2015
+N8,National Air Cargo Group Inc d/ba National Airlines,3,37036.0,2015
+N8,National Air Cargo Group Inc d/ba National Airlines,4,21023.0,2015
+NC,Northern Air Cargo Inc.,1,5813.0,2015
+NC,Northern Air Cargo Inc.,2,10008.0,2015
+NC,Northern Air Cargo Inc.,3,10125.0,2015
+NC,Northern Air Cargo Inc.,4,7640.0,2015
+NK,Spirit Air Lines,1,495631.0,2015
+NK,Spirit Air Lines,2,530742.0,2015
+NK,Spirit Air Lines,3,468942.0,2015
+NK,Spirit Air Lines,4,468457.0,2015
+OH,PSA Airlines Inc.,1,151371.0,2015
+OH,PSA Airlines Inc.,2,160577.0,2015
+OH,PSA Airlines Inc.,3,136344.0,2015
+OH,PSA Airlines Inc.,4,141535.0,2015
+OO,SkyWest Airlines Inc.,1,544616.0,2015
+OO,SkyWest Airlines Inc.,2,581464.0,2015
+OO,SkyWest Airlines Inc.,3,597643.0,2015
+OO,SkyWest Airlines Inc.,4,540156.0,2015
+PFQ,Asia Pacific,1,3382.0,2015
+PFQ,Asia Pacific,2,3719.0,2015
+PFQ,Asia Pacific,3,3758.0,2015
+PFQ,Asia Pacific,4,4447.0,2015
+PO,Polar Air Cargo Airways,1,92443.0,2015
+PO,Polar Air Cargo Airways,2,117514.0,2015
+PO,Polar Air Cargo Airways,3,88115.0,2015
+PO,Polar Air Cargo Airways,4,62480.0,2015
+PRQ,Florida West Airlines Inc.,1,752.0,2015
+PRQ,Florida West Airlines Inc.,2,779.0,2015
+PRQ,Florida West Airlines Inc.,3,1480.0,2015
+PRQ,Florida West Airlines Inc.,4,3611.0,2015
+QX,Horizon Air,1,214261.0,2015
+QX,Horizon Air,2,161530.0,2015
+QX,Horizon Air,3,150765.0,2015
+QX,Horizon Air,4,135137.0,2015
+S5,Shuttle America Corp.,1,124902.0,2015
+S5,Shuttle America Corp.,2,207505.0,2015
+S5,Shuttle America Corp.,3,195704.0,2015
+S5,Shuttle America Corp.,4,709002.0,2015
+SY,Sun Country Airlines d/b/a MN Airlines,1,111380.0,2015
+SY,Sun Country Airlines d/b/a MN Airlines,2,117145.0,2015
+SY,Sun Country Airlines d/b/a MN Airlines,3,117391.0,2015
+SY,Sun Country Airlines d/b/a MN Airlines,4,149854.0,2015
+U7,USA Jet Airlines Inc.,1,39270.0,2015
+U7,USA Jet Airlines Inc.,2,45734.0,2015
+U7,USA Jet Airlines Inc.,3,45895.0,2015
+U7,USA Jet Airlines Inc.,4,52099.0,2015
+UA,United Air Lines Inc.,1,13973478.0,2015
+UA,United Air Lines Inc.,2,13814533.0,2015
+UA,United Air Lines Inc.,3,13492787.0,2015
+UA,United Air Lines Inc.,4,12416619.0,2015
+US,US Airways Inc.,1,4902910.0,2015
+US,US Airways Inc.,2,4859985.0,2015
+US,US Airways Inc.,3,,2015
+US,US Airways Inc.,4,,2015
+VX,Virgin America,1,417080.0,2015
+VX,Virgin America,2,437141.0,2015
+VX,Virgin America,3,435676.0,2015
+VX,Virgin America,4,417434.0,2015
+WE,Centurion Cargo Inc.,1,66703.0,2015
+WE,Centurion Cargo Inc.,2,60805.0,2015
+WE,Centurion Cargo Inc.,3,76355.0,2015
+WE,Centurion Cargo Inc.,4,72086.0,2015
+WI,Sky Lease Cargo,1,11631.0,2015
+WI,Sky Lease Cargo,2,10797.0,2015
+WI,Sky Lease Cargo,3,18453.0,2015
+WI,Sky Lease Cargo,4,17520.0,2015
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,8305.0,2015
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,8418.0,2015
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,8342.0,2015
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,,2015
+WN,Southwest Airlines Co.,1,6903082.0,2015
+WN,Southwest Airlines Co.,2,6875617.0,2015
+WN,Southwest Airlines Co.,3,7083688.0,2015
+WN,Southwest Airlines Co.,4,7406326.0,2015
+WP,Island Air Hawaii,1,10212.0,2015
+WP,Island Air Hawaii,2,8628.0,2015
+WP,Island Air Hawaii,3,7176.0,2015
+WP,Island Air Hawaii,4,8970.0,2015
+X9,Omni Air International LLC,1,27076.0,2015
+X9,Omni Air International LLC,2,34764.0,2015
+X9,Omni Air International LLC,3,37887.0,2015
+X9,Omni Air International LLC,4,32066.0,2015
+XP,TEM Enterprises dba  Avelo Airlines,1,7767.0,2015
+XP,TEM Enterprises dba  Avelo Airlines,2,9280.0,2015
+XP,TEM Enterprises dba  Avelo Airlines,3,9620.0,2015
+XP,TEM Enterprises dba  Avelo Airlines,4,19783.0,2015
+YV,Mesa Airlines Inc.,1,11930.0,2015
+YV,Mesa Airlines Inc.,2,22715.0,2015
+YV,Mesa Airlines Inc.,3,33370.0,2015
+YV,Mesa Airlines Inc.,4,55630.0,2015
+YX,Republic Airline,1,255709.0,2015
+YX,Republic Airline,2,254397.0,2015
+YX,Republic Airline,3,339708.0,2015
+YX,Republic Airline,4,1935938.0,2015
+ZW,Air Wisconsin Airlines Corp,1,165158.0,2015
+ZW,Air Wisconsin Airlines Corp,2,175886.0,2015
+ZW,Air Wisconsin Airlines Corp,3,98451.0,2015
+ZW,Air Wisconsin Airlines Corp,4,110804.0,2015
+All Rows,All Rows (including those not displayed),1,70629928.0,2015
+All Rows,All Rows (including those not displayed),2,70884432.0,2015
+All Rows,All Rows (including those not displayed),3,67367355.0,2015
+All Rows,All Rows (including those not displayed),4,67640146.0,2015
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,8910.0,2016
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,8591.0,2016
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,8591.0,2016
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,13662.0,2016
+0WQ,Avjet Corporation,1,9362.0,2016
+0WQ,Avjet Corporation,2,10724.0,2016
+0WQ,Avjet Corporation,3,11360.0,2016
+0WQ,Avjet Corporation,4,12423.0,2016
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,28460.0,2016
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,23226.0,2016
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,19974.0,2016
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,22496.0,2016
+27Q,"Jet Aviation Flight Services, Inc.",1,45453.0,2016
+27Q,"Jet Aviation Flight Services, Inc.",2,43889.0,2016
+27Q,"Jet Aviation Flight Services, Inc.",3,46083.0,2016
+27Q,"Jet Aviation Flight Services, Inc.",4,47412.0,2016
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,3556.0,2016
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,3618.0,2016
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,4413.0,2016
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,3802.0,2016
+5X,United Parcel Service,1,682666.0,2016
+5X,United Parcel Service,2,697991.0,2016
+5X,United Parcel Service,3,666382.0,2016
+5X,United Parcel Service,4,687572.0,2016
+5Y,Atlas Air Inc.,1,318705.0,2016
+5Y,Atlas Air Inc.,2,307845.0,2016
+5Y,Atlas Air Inc.,3,323910.0,2016
+5Y,Atlas Air Inc.,4,339789.0,2016
+8C,Air Transport International,1,21111.0,2016
+8C,Air Transport International,2,16611.0,2016
+8C,Air Transport International,3,23492.0,2016
+8C,Air Transport International,4,24477.0,2016
+9E,Endeavor Air Inc.,1,99540.0,2016
+9E,Endeavor Air Inc.,2,107749.0,2016
+9E,Endeavor Air Inc.,3,102359.0,2016
+9E,Endeavor Air Inc.,4,109418.0,2016
+9S,Southern Air Inc.,1,309855.0,2016
+9S,Southern Air Inc.,2,21153.0,2016
+9S,Southern Air Inc.,3,15067.0,2016
+9S,Southern Air Inc.,4,29017.0,2016
+AA,American Airlines Inc.,1,14963594.0,2016
+AA,American Airlines Inc.,2,14641703.0,2016
+AA,American Airlines Inc.,3,14321369.0,2016
+AA,American Airlines Inc.,4,13671663.0,2016
+ABX,ABX Air Inc,1,63455.0,2016
+ABX,ABX Air Inc,2,72125.0,2016
+ABX,ABX Air Inc,3,71533.0,2016
+ABX,ABX Air Inc,4,62617.0,2016
+AS,Alaska Airlines Inc.,1,2829481.0,2016
+AS,Alaska Airlines Inc.,2,2866660.0,2016
+AS,Alaska Airlines Inc.,3,2925164.0,2016
+AS,Alaska Airlines Inc.,4,3555424.0,2016
+B6,JetBlue Airways,1,2474365.0,2016
+B6,JetBlue Airways,2,2613046.0,2016
+B6,JetBlue Airways,3,2504683.0,2016
+B6,JetBlue Airways,4,2222743.0,2016
+CP (2),Compass Airlines,1,22676.0,2016
+CP (2),Compass Airlines,2,22762.0,2016
+CP (2),Compass Airlines,3,28775.0,2016
+CP (2),Compass Airlines,4,36494.0,2016
+DL,Delta Air Lines Inc.,1,18115140.0,2016
+DL,Delta Air Lines Inc.,2,16257250.0,2016
+DL,Delta Air Lines Inc.,3,15168665.0,2016
+DL,Delta Air Lines Inc.,4,15236537.0,2016
+EE,Eastern Airlines Group Inc.,1,9552.0,2016
+EE,Eastern Airlines Group Inc.,2,11926.0,2016
+EE,Eastern Airlines Group Inc.,3,14596.0,2016
+EE,Eastern Airlines Group Inc.,4,14361.0,2016
+EV,ExpressJet Airlines LLC d/b/a aha!,1,397522.0,2016
+EV,ExpressJet Airlines LLC d/b/a aha!,2,5950.0,2016
+EV,ExpressJet Airlines LLC d/b/a aha!,3,359592.0,2016
+EV,ExpressJet Airlines LLC d/b/a aha!,4,359592.0,2016
+F9,Frontier Airlines Inc.,1,550224.0,2016
+F9,Frontier Airlines Inc.,2,608577.0,2016
+F9,Frontier Airlines Inc.,3,573384.0,2016
+F9,Frontier Airlines Inc.,4,552794.0,2016
+FX,Federal Express Corporation,1,3343648.0,2016
+FX,Federal Express Corporation,2,9912392.0,2016
+FX,Federal Express Corporation,3,9807782.0,2016
+FX,Federal Express Corporation,4,9670950.0,2016
+G4,Allegiant Air,1,400807.0,2016
+G4,Allegiant Air,2,415541.0,2016
+G4,Allegiant Air,3,447352.0,2016
+G4,Allegiant Air,4,374847.0,2016
+G7,GoJet Airlines LLC d/b/a United Express,1,56573.0,2016
+G7,GoJet Airlines LLC d/b/a United Express,2,66200.0,2016
+G7,GoJet Airlines LLC d/b/a United Express,3,69145.0,2016
+G7,GoJet Airlines LLC d/b/a United Express,4,76883.0,2016
+GFQ,Gulf And Caribbean Cargo,1,24085.0,2016
+GFQ,Gulf And Caribbean Cargo,2,26840.0,2016
+GFQ,Gulf And Caribbean Cargo,3,28418.0,2016
+GFQ,Gulf And Caribbean Cargo,4,26555.0,2016
+GL,Miami Air International,1,16258.0,2016
+GL,Miami Air International,2,13995.0,2016
+GL,Miami Air International,3,19849.0,2016
+GL,Miami Air International,4,20635.0,2016
+HA,Hawaiian Airlines Inc.,1,848570.0,2016
+HA,Hawaiian Airlines Inc.,2,846148.0,2016
+HA,Hawaiian Airlines Inc.,3,824737.0,2016
+HA,Hawaiian Airlines Inc.,4,819807.0,2016
+KAQ,Kalitta Air LLC,1,56230.0,2016
+KAQ,Kalitta Air LLC,2,59509.0,2016
+KAQ,Kalitta Air LLC,3,63342.0,2016
+KAQ,Kalitta Air LLC,4,88753.0,2016
+KD,Western Global,1,7767.0,2016
+KD,Western Global,2,10502.0,2016
+KD,Western Global,3,,2016
+KD,Western Global,4,13675.0,2016
+KH,Aloha Air Cargo,1,23573.0,2016
+KH,Aloha Air Cargo,2,22776.0,2016
+KH,Aloha Air Cargo,3,26479.0,2016
+KH,Aloha Air Cargo,4,32802.0,2016
+KLQ,Kalitta Charters II,1,1909.0,2016
+KLQ,Kalitta Charters II,2,3335.0,2016
+KLQ,Kalitta Charters II,3,3348.0,2016
+KLQ,Kalitta Charters II,4,5764.0,2016
+L2,Lynden Air Cargo Airlines,1,3336.0,2016
+L2,Lynden Air Cargo Airlines,2,5269.0,2016
+L2,Lynden Air Cargo Airlines,3,5958.0,2016
+L2,Lynden Air Cargo Airlines,4,8050.0,2016
+M6,Amerijet International,1,57712.0,2016
+M6,Amerijet International,2,53958.0,2016
+M6,Amerijet International,3,93947.0,2016
+M6,Amerijet International,4,93980.0,2016
+MQ,Envoy Air,1,92129.0,2016
+MQ,Envoy Air,2,94764.0,2016
+MQ,Envoy Air,3,93455.0,2016
+MQ,Envoy Air,4,92218.0,2016
+N8,National Air Cargo Group Inc d/ba National Airlines,1,18821.0,2016
+N8,National Air Cargo Group Inc d/ba National Airlines,2,15066.0,2016
+N8,National Air Cargo Group Inc d/ba National Airlines,3,13999.0,2016
+N8,National Air Cargo Group Inc d/ba National Airlines,4,19263.0,2016
+NC,Northern Air Cargo Inc.,1,6154.0,2016
+NC,Northern Air Cargo Inc.,2,-32627.0,2016
+NC,Northern Air Cargo Inc.,3,-32922.0,2016
+NC,Northern Air Cargo Inc.,4,-32057.0,2016
+NK,Spirit Air Lines,1,570224.0,2016
+NK,Spirit Air Lines,2,610546.0,2016
+NK,Spirit Air Lines,3,574769.0,2016
+NK,Spirit Air Lines,4,536896.0,2016
+OH,PSA Airlines Inc.,1,154422.0,2016
+OH,PSA Airlines Inc.,2,293459.0,2016
+OH,PSA Airlines Inc.,3,141967.0,2016
+OH,PSA Airlines Inc.,4,141842.0,2016
+OO,SkyWest Airlines Inc.,1,540342.0,2016
+OO,SkyWest Airlines Inc.,2,579125.0,2016
+OO,SkyWest Airlines Inc.,3,534372.0,2016
+OO,SkyWest Airlines Inc.,4,417549.0,2016
+PFQ,Asia Pacific,1,3696.0,2016
+PFQ,Asia Pacific,2,3943.0,2016
+PFQ,Asia Pacific,3,4357.0,2016
+PFQ,Asia Pacific,4,4952.0,2016
+PO,Polar Air Cargo Airways,1,67148.0,2016
+PO,Polar Air Cargo Airways,2,60330.0,2016
+PO,Polar Air Cargo Airways,3,76292.0,2016
+PO,Polar Air Cargo Airways,4,72352.0,2016
+PRQ,Florida West Airlines Inc.,1,3557.0,2016
+PRQ,Florida West Airlines Inc.,2,2115.0,2016
+PRQ,Florida West Airlines Inc.,3,337.0,2016
+PRQ,Florida West Airlines Inc.,4,255.0,2016
+QX,Horizon Air,1,167179.0,2016
+QX,Horizon Air,2,176649.0,2016
+QX,Horizon Air,3,175043.0,2016
+QX,Horizon Air,4,178756.0,2016
+S5,Shuttle America Corp.,1,538108.0,2016
+S5,Shuttle America Corp.,2,149815.0,2016
+S5,Shuttle America Corp.,3,100682.0,2016
+S5,Shuttle America Corp.,4,89569.0,2016
+SY,Sun Country Airlines d/b/a MN Airlines,1,121029.0,2016
+SY,Sun Country Airlines d/b/a MN Airlines,2,116192.0,2016
+SY,Sun Country Airlines d/b/a MN Airlines,3,127622.0,2016
+SY,Sun Country Airlines d/b/a MN Airlines,4,152994.0,2016
+U7,USA Jet Airlines Inc.,1,53670.0,2016
+U7,USA Jet Airlines Inc.,2,53754.0,2016
+U7,USA Jet Airlines Inc.,3,92268.0,2016
+U7,USA Jet Airlines Inc.,4,85313.0,2016
+UA,United Air Lines Inc.,1,13384034.0,2016
+UA,United Air Lines Inc.,2,13987309.0,2016
+UA,United Air Lines Inc.,3,13257270.0,2016
+UA,United Air Lines Inc.,4,12290691.0,2016
+VX,Virgin America,1,472976.0,2016
+VX,Virgin America,2,489270.0,2016
+VX,Virgin America,3,431938.0,2016
+VX,Virgin America,4,572913.0,2016
+WE,Centurion Cargo Inc.,1,69956.0,2016
+WE,Centurion Cargo Inc.,2,68711.0,2016
+WE,Centurion Cargo Inc.,3,89385.0,2016
+WE,Centurion Cargo Inc.,4,,2016
+WI,Sky Lease Cargo,1,18950.0,2016
+WI,Sky Lease Cargo,2,19800.0,2016
+WI,Sky Lease Cargo,3,17029.0,2016
+WI,Sky Lease Cargo,4,22250.0,2016
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,,2016
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,8387.0,2016
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,8189.0,2016
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,8955.0,2016
+WN,Southwest Airlines Co.,1,8253010.0,2016
+WN,Southwest Airlines Co.,2,7833511.0,2016
+WN,Southwest Airlines Co.,3,7816179.0,2016
+WN,Southwest Airlines Co.,4,6843350.0,2016
+WP,Island Air Hawaii,1,6938.0,2016
+WP,Island Air Hawaii,2,9724.0,2016
+WP,Island Air Hawaii,3,12134.0,2016
+WP,Island Air Hawaii,4,12921.0,2016
+X9,Omni Air International LLC,1,41750.0,2016
+X9,Omni Air International LLC,2,39321.0,2016
+X9,Omni Air International LLC,3,41833.0,2016
+X9,Omni Air International LLC,4,39232.0,2016
+XP,TEM Enterprises dba  Avelo Airlines,1,17616.0,2016
+XP,TEM Enterprises dba  Avelo Airlines,2,19465.0,2016
+XP,TEM Enterprises dba  Avelo Airlines,3,24469.0,2016
+XP,TEM Enterprises dba  Avelo Airlines,4,22609.0,2016
+YV,Mesa Airlines Inc.,1,63879.0,2016
+YV,Mesa Airlines Inc.,2,77573.0,2016
+YV,Mesa Airlines Inc.,3,97103.0,2016
+YV,Mesa Airlines Inc.,4,128633.0,2016
+YX,Republic Airline,1,1830738.0,2016
+YX,Republic Airline,2,466061.0,2016
+YX,Republic Airline,3,457969.0,2016
+YX,Republic Airline,4,478141.0,2016
+ZW,Air Wisconsin Airlines Corp,1,90433.0,2016
+ZW,Air Wisconsin Airlines Corp,2,58797.0,2016
+ZW,Air Wisconsin Airlines Corp,3,41568.0,2016
+ZW,Air Wisconsin Airlines Corp,4,40213.0,2016
+All Rows,All Rows (including those not displayed),1,72380855.0,2016
+All Rows,All Rows (including those not displayed),2,74978921.0,2016
+All Rows,All Rows (including those not displayed),3,72777058.0,2016
+All Rows,All Rows (including those not displayed),4,70454806.0,2016
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,16472.0,2017
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,14931.0,2017
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,19779.0,2017
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,23331.0,2017
+0WQ,Avjet Corporation,1,14933.0,2017
+0WQ,Avjet Corporation,2,15623.0,2017
+0WQ,Avjet Corporation,3,15623.0,2017
+0WQ,Avjet Corporation,4,16983.0,2017
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,25122.0,2017
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,37272.0,2017
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,84320.0,2017
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,87160.0,2017
+23Q,Songbird Airways Inc.,1,2699.0,2017
+23Q,Songbird Airways Inc.,2,1724.0,2017
+23Q,Songbird Airways Inc.,3,1735.0,2017
+23Q,Songbird Airways Inc.,4,,2017
+27Q,"Jet Aviation Flight Services, Inc.",1,56794.0,2017
+27Q,"Jet Aviation Flight Services, Inc.",2,56090.0,2017
+27Q,"Jet Aviation Flight Services, Inc.",3,58058.0,2017
+27Q,"Jet Aviation Flight Services, Inc.",4,51492.0,2017
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,5016.0,2017
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,5030.0,2017
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,4380.0,2017
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,3811.0,2017
+5X,United Parcel Service,1,597986.0,2017
+5X,United Parcel Service,2,561350.0,2017
+5X,United Parcel Service,3,613901.0,2017
+5X,United Parcel Service,4,646952.0,2017
+5Y,Atlas Air Inc.,1,405388.0,2017
+5Y,Atlas Air Inc.,2,458836.0,2017
+5Y,Atlas Air Inc.,3,482660.0,2017
+5Y,Atlas Air Inc.,4,497922.0,2017
+8C,Air Transport International,1,25702.0,2017
+8C,Air Transport International,2,23818.0,2017
+8C,Air Transport International,3,27100.0,2017
+8C,Air Transport International,4,33445.0,2017
+9E,Endeavor Air Inc.,1,112501.0,2017
+9E,Endeavor Air Inc.,2,114823.0,2017
+9E,Endeavor Air Inc.,3,111622.0,2017
+9E,Endeavor Air Inc.,4,132726.0,2017
+9S,Southern Air Inc.,1,11106.0,2017
+9S,Southern Air Inc.,2,13587.0,2017
+9S,Southern Air Inc.,3,13079.0,2017
+9S,Southern Air Inc.,4,6848.0,2017
+AA,American Airlines Inc.,1,15049457.0,2017
+AA,American Airlines Inc.,2,15430059.0,2017
+AA,American Airlines Inc.,3,14594638.0,2017
+AA,American Airlines Inc.,4,14273369.0,2017
+ABX,ABX Air Inc,1,62617.0,2017
+ABX,ABX Air Inc,2,53169.0,2017
+ABX,ABX Air Inc,3,53192.0,2017
+ABX,ABX Air Inc,4,52296.0,2017
+AS,Alaska Airlines Inc.,1,3867512.0,2017
+AS,Alaska Airlines Inc.,2,3964993.0,2017
+AS,Alaska Airlines Inc.,3,3827790.0,2017
+AS,Alaska Airlines Inc.,4,4130982.0,2017
+B6,JetBlue Airways,1,2421664.0,2017
+B6,JetBlue Airways,2,2498573.0,2017
+B6,JetBlue Airways,3,2350905.0,2017
+B6,JetBlue Airways,4,2395600.0,2017
+CP (2),Compass Airlines,1,28746.0,2017
+CP (2),Compass Airlines,2,41200.0,2017
+CP (2),Compass Airlines,3,37785.0,2017
+CP (2),Compass Airlines,4,35264.0,2017
+DL,Delta Air Lines Inc.,1,15959235.0,2017
+DL,Delta Air Lines Inc.,2,16643851.0,2017
+DL,Delta Air Lines Inc.,3,16501977.0,2017
+DL,Delta Air Lines Inc.,4,18556390.0,2017
+EE,Eastern Airlines Group Inc.,1,18051.0,2017
+EE,Eastern Airlines Group Inc.,2,10546.0,2017
+EE,Eastern Airlines Group Inc.,3,7227.0,2017
+EE,Eastern Airlines Group Inc.,4,,2017
+EV,ExpressJet Airlines LLC d/b/a aha!,1,252077.0,2017
+EV,ExpressJet Airlines LLC d/b/a aha!,2,237433.0,2017
+EV,ExpressJet Airlines LLC d/b/a aha!,3,225005.0,2017
+EV,ExpressJet Airlines LLC d/b/a aha!,4,155805.0,2017
+F9,Frontier Airlines Inc.,1,661477.0,2017
+F9,Frontier Airlines Inc.,2,650827.0,2017
+F9,Frontier Airlines Inc.,3,641829.0,2017
+F9,Frontier Airlines Inc.,4,687050.0,2017
+FX,Federal Express Corporation,1,9760922.0,2017
+FX,Federal Express Corporation,2,10038383.0,2017
+FX,Federal Express Corporation,3,10630441.0,2017
+FX,Federal Express Corporation,4,11018631.0,2017
+G4,Allegiant Air,1,428433.0,2017
+G4,Allegiant Air,2,443459.0,2017
+G4,Allegiant Air,3,481140.0,2017
+G4,Allegiant Air,4,523758.0,2017
+G7,GoJet Airlines LLC d/b/a United Express,1,83534.0,2017
+G7,GoJet Airlines LLC d/b/a United Express,2,87408.0,2017
+G7,GoJet Airlines LLC d/b/a United Express,3,89911.0,2017
+G7,GoJet Airlines LLC d/b/a United Express,4,91723.0,2017
+GFQ,Gulf And Caribbean Cargo,1,26519.0,2017
+GFQ,Gulf And Caribbean Cargo,2,27794.0,2017
+GFQ,Gulf And Caribbean Cargo,3,28592.0,2017
+GFQ,Gulf And Caribbean Cargo,4,28864.0,2017
+GL,Miami Air International,1,16802.0,2017
+GL,Miami Air International,2,14484.0,2017
+GL,Miami Air International,3,19694.0,2017
+GL,Miami Air International,4,19281.0,2017
+HA,Hawaiian Airlines Inc.,1,958101.0,2017
+HA,Hawaiian Airlines Inc.,2,949871.0,2017
+HA,Hawaiian Airlines Inc.,3,903060.0,2017
+HA,Hawaiian Airlines Inc.,4,884824.0,2017
+KAQ,Kalitta Air LLC,1,76471.0,2017
+KAQ,Kalitta Air LLC,2,89611.0,2017
+KAQ,Kalitta Air LLC,3,106602.0,2017
+KAQ,Kalitta Air LLC,4,148231.0,2017
+KD,Western Global,1,9403.0,2017
+KD,Western Global,2,11522.0,2017
+KD,Western Global,3,-18055.0,2017
+KD,Western Global,4,24472.0,2017
+KH,Aloha Air Cargo,1,29474.0,2017
+KH,Aloha Air Cargo,2,29256.0,2017
+KH,Aloha Air Cargo,3,27164.0,2017
+KH,Aloha Air Cargo,4,27125.0,2017
+KLQ,Kalitta Charters II,1,2574.0,2017
+KLQ,Kalitta Charters II,2,3802.0,2017
+KLQ,Kalitta Charters II,3,8437.0,2017
+KLQ,Kalitta Charters II,4,7693.0,2017
+L2,Lynden Air Cargo Airlines,1,8647.0,2017
+L2,Lynden Air Cargo Airlines,2,6173.0,2017
+L2,Lynden Air Cargo Airlines,3,8549.0,2017
+L2,Lynden Air Cargo Airlines,4,7061.0,2017
+M6,Amerijet International,1,88613.0,2017
+M6,Amerijet International,2,90770.0,2017
+M6,Amerijet International,3,96800.0,2017
+M6,Amerijet International,4,103704.0,2017
+MQ,Envoy Air,1,99380.0,2017
+MQ,Envoy Air,2,99380.0,2017
+MQ,Envoy Air,3,99380.0,2017
+MQ,Envoy Air,4,99380.0,2017
+N8,National Air Cargo Group Inc d/ba National Airlines,1,17480.0,2017
+N8,National Air Cargo Group Inc d/ba National Airlines,2,10892.0,2017
+N8,National Air Cargo Group Inc d/ba National Airlines,3,2913.0,2017
+N8,National Air Cargo Group Inc d/ba National Airlines,4,7160.0,2017
+NC,Northern Air Cargo Inc.,1,-31739.0,2017
+NC,Northern Air Cargo Inc.,2,-28609.0,2017
+NC,Northern Air Cargo Inc.,3,-27980.0,2017
+NC,Northern Air Cargo Inc.,4,-27673.0,2017
+NK,Spirit Air Lines,1,677030.0,2017
+NK,Spirit Air Lines,2,690775.0,2017
+NK,Spirit Air Lines,3,668165.0,2017
+NK,Spirit Air Lines,4,655491.0,2017
+OH,PSA Airlines Inc.,1,148345.0,2017
+OH,PSA Airlines Inc.,2,134704.0,2017
+OH,PSA Airlines Inc.,3,134028.0,2017
+OH,PSA Airlines Inc.,4,141962.0,2017
+OO,SkyWest Airlines Inc.,1,497286.0,2017
+OO,SkyWest Airlines Inc.,2,539307.0,2017
+OO,SkyWest Airlines Inc.,3,791340.0,2017
+OO,SkyWest Airlines Inc.,4,861417.0,2017
+PFQ,Asia Pacific,1,4528.0,2017
+PFQ,Asia Pacific,2,4324.0,2017
+PFQ,Asia Pacific,3,4100.0,2017
+PFQ,Asia Pacific,4,4121.0,2017
+PO,Polar Air Cargo Airways,1,97774.0,2017
+PO,Polar Air Cargo Airways,2,87962.0,2017
+PO,Polar Air Cargo Airways,3,93405.0,2017
+PO,Polar Air Cargo Airways,4,101722.0,2017
+QX,Horizon Air,1,230245.0,2017
+QX,Horizon Air,2,359549.0,2017
+QX,Horizon Air,3,453003.0,2017
+QX,Horizon Air,4,427146.0,2017
+SY,Sun Country Airlines d/b/a MN Airlines,1,136855.0,2017
+SY,Sun Country Airlines d/b/a MN Airlines,2,132128.0,2017
+SY,Sun Country Airlines d/b/a MN Airlines,3,147783.0,2017
+SY,Sun Country Airlines d/b/a MN Airlines,4,166759.0,2017
+U7,USA Jet Airlines Inc.,1,54000.0,2017
+U7,USA Jet Airlines Inc.,2,87273.0,2017
+U7,USA Jet Airlines Inc.,3,91799.0,2017
+U7,USA Jet Airlines Inc.,4,112762.0,2017
+UA,United Air Lines Inc.,1,12666552.0,2017
+UA,United Air Lines Inc.,2,13601721.0,2017
+UA,United Air Lines Inc.,3,13091556.0,2017
+UA,United Air Lines Inc.,4,12681164.0,2017
+VX,Virgin America,1,585756.0,2017
+VX,Virgin America,2,464468.0,2017
+VX,Virgin America,3,328380.0,2017
+VX,Virgin America,4,359317.0,2017
+WI,Sky Lease Cargo,1,26353.0,2017
+WI,Sky Lease Cargo,2,46650.0,2017
+WI,Sky Lease Cargo,3,38052.0,2017
+WI,Sky Lease Cargo,4,36369.0,2017
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,10882.0,2017
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,12183.0,2017
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,10768.0,2017
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,8698.0,2017
+WN,Southwest Airlines Co.,1,7458436.0,2017
+WN,Southwest Airlines Co.,2,7096900.0,2017
+WN,Southwest Airlines Co.,3,6965406.0,2017
+WN,Southwest Airlines Co.,4,6904952.0,2017
+WP,Island Air Hawaii,1,14736.0,2017
+WP,Island Air Hawaii,2,16667.0,2017
+WP,Island Air Hawaii,3,21916.0,2017
+WP,Island Air Hawaii,4,,2017
+X9,Omni Air International LLC,1,43364.0,2017
+X9,Omni Air International LLC,2,43907.0,2017
+X9,Omni Air International LLC,3,45811.0,2017
+X9,Omni Air International LLC,4,37818.0,2017
+XP,TEM Enterprises dba  Avelo Airlines,1,25735.0,2017
+XP,TEM Enterprises dba  Avelo Airlines,2,30071.0,2017
+XP,TEM Enterprises dba  Avelo Airlines,3,33814.0,2017
+XP,TEM Enterprises dba  Avelo Airlines,4,40188.0,2017
+YV,Mesa Airlines Inc.,1,108177.0,2017
+YV,Mesa Airlines Inc.,2,116664.0,2017
+YV,Mesa Airlines Inc.,3,126356.0,2017
+YV,Mesa Airlines Inc.,4,106411.0,2017
+YX,Republic Airline,1,1545991.0,2017
+YX,Republic Airline,2,420871.0,2017
+YX,Republic Airline,3,420679.0,2017
+YX,Republic Airline,4,356007.0,2017
+ZW,Air Wisconsin Airlines Corp,1,38071.0,2017
+ZW,Air Wisconsin Airlines Corp,2,51405.0,2017
+ZW,Air Wisconsin Airlines Corp,3,66535.0,2017
+ZW,Air Wisconsin Airlines Corp,4,45935.0,2017
+All Rows,All Rows (including those not displayed),1,75539288.0,2017
+All Rows,All Rows (including those not displayed),2,76645459.0,2017
+All Rows,All Rows (including those not displayed),3,75662149.0,2017
+All Rows,All Rows (including those not displayed),4,77799898.0,2017
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,27810.0,2018
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,28453.0,2018
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,30165.0,2018
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,32508.0,2018
+0WQ,Avjet Corporation,1,29661.0,2018
+0WQ,Avjet Corporation,2,,2018
+0WQ,Avjet Corporation,3,,2018
+0WQ,Avjet Corporation,4,26831.0,2018
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,6641.0,2018
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,8977.0,2018
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,9636.0,2018
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,9632.0,2018
+27Q,"Jet Aviation Flight Services, Inc.",1,69591.0,2018
+27Q,"Jet Aviation Flight Services, Inc.",2,61326.0,2018
+27Q,"Jet Aviation Flight Services, Inc.",3,61182.0,2018
+27Q,"Jet Aviation Flight Services, Inc.",4,54230.0,2018
+2HQ,Elite Airways LLC,1,16546.0,2018
+2HQ,Elite Airways LLC,2,16427.0,2018
+2HQ,Elite Airways LLC,3,21741.0,2018
+2HQ,Elite Airways LLC,4,20815.0,2018
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1,,2018
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",2,,2018
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3,,2018
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",4,6344.0,2018
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,3213.0,2018
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,3356.0,2018
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,3239.0,2018
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,3132.0,2018
+5X,United Parcel Service,1,647079.0,2018
+5X,United Parcel Service,2,695169.0,2018
+5X,United Parcel Service,3,678695.0,2018
+5X,United Parcel Service,4,673130.0,2018
+5Y,Atlas Air Inc.,1,508151.0,2018
+5Y,Atlas Air Inc.,2,536196.0,2018
+5Y,Atlas Air Inc.,3,543070.0,2018
+5Y,Atlas Air Inc.,4,532908.0,2018
+8C,Air Transport International,1,29832.0,2018
+8C,Air Transport International,2,30309.0,2018
+8C,Air Transport International,3,34664.0,2018
+8C,Air Transport International,4,41703.0,2018
+9E,Endeavor Air Inc.,1,119719.0,2018
+9E,Endeavor Air Inc.,2,130575.0,2018
+9E,Endeavor Air Inc.,3,125689.0,2018
+9E,Endeavor Air Inc.,4,124876.0,2018
+9S,Southern Air Inc.,1,31152.0,2018
+9S,Southern Air Inc.,2,36918.0,2018
+9S,Southern Air Inc.,3,33699.0,2018
+9S,Southern Air Inc.,4,17138.0,2018
+AA,American Airlines Inc.,1,16297718.0,2018
+AA,American Airlines Inc.,2,16469372.0,2018
+AA,American Airlines Inc.,3,16145977.0,2018
+AA,American Airlines Inc.,4,17120864.0,2018
+ABX,ABX Air Inc,1,45589.0,2018
+ABX,ABX Air Inc,2,43154.0,2018
+ABX,ABX Air Inc,3,46587.0,2018
+ABX,ABX Air Inc,4,49625.0,2018
+AS,Alaska Airlines Inc.,1,3047149.0,2018
+AS,Alaska Airlines Inc.,2,3049165.0,2018
+AS,Alaska Airlines Inc.,3,2380913.0,2018
+AS,Alaska Airlines Inc.,4,4487995.0,2018
+B6,JetBlue Airways,1,2512273.0,2018
+B6,JetBlue Airways,2,2449134.0,2018
+B6,JetBlue Airways,3,2512085.0,2018
+B6,JetBlue Airways,4,2417423.0,2018
+CP (2),Compass Airlines,1,33367.0,2018
+CP (2),Compass Airlines,2,30983.0,2018
+CP (2),Compass Airlines,3,26292.0,2018
+CP (2),Compass Airlines,4,25470.0,2018
+DL,Delta Air Lines Inc.,1,-20003846.0,2018
+DL,Delta Air Lines Inc.,2,-19264991.0,2018
+DL,Delta Air Lines Inc.,3,18145534.0,2018
+DL,Delta Air Lines Inc.,4,18743634.0,2018
+EV,ExpressJet Airlines LLC d/b/a aha!,1,156553.0,2018
+EV,ExpressJet Airlines LLC d/b/a aha!,2,164837.0,2018
+EV,ExpressJet Airlines LLC d/b/a aha!,3,181369.0,2018
+EV,ExpressJet Airlines LLC d/b/a aha!,4,161686.0,2018
+F9,Frontier Airlines Inc.,1,750689.0,2018
+F9,Frontier Airlines Inc.,2,720694.0,2018
+F9,Frontier Airlines Inc.,3,704769.0,2018
+F9,Frontier Airlines Inc.,4,775330.0,2018
+FX,Federal Express Corporation,1,11135920.0,2018
+FX,Federal Express Corporation,2,9672320.0,2018
+FX,Federal Express Corporation,3,9647054.0,2018
+FX,Federal Express Corporation,4,9388208.0,2018
+G4,Allegiant Air,1,539725.0,2018
+G4,Allegiant Air,2,504667.0,2018
+G4,Allegiant Air,3,538434.0,2018
+G4,Allegiant Air,4,460207.0,2018
+G7,GoJet Airlines LLC d/b/a United Express,1,83120.0,2018
+G7,GoJet Airlines LLC d/b/a United Express,2,82211.0,2018
+G7,GoJet Airlines LLC d/b/a United Express,3,78324.0,2018
+G7,GoJet Airlines LLC d/b/a United Express,4,81972.0,2018
+GFQ,Gulf And Caribbean Cargo,1,33176.0,2018
+GFQ,Gulf And Caribbean Cargo,2,29702.0,2018
+GFQ,Gulf And Caribbean Cargo,3,29439.0,2018
+GFQ,Gulf And Caribbean Cargo,4,29442.0,2018
+GL,Miami Air International,1,16831.0,2018
+GL,Miami Air International,2,12367.0,2018
+GL,Miami Air International,3,16311.0,2018
+GL,Miami Air International,4,19669.0,2018
+HA,Hawaiian Airlines Inc.,1,1015244.0,2018
+HA,Hawaiian Airlines Inc.,2,1097747.0,2018
+HA,Hawaiian Airlines Inc.,3,1029425.0,2018
+HA,Hawaiian Airlines Inc.,4,996834.0,2018
+KAQ,Kalitta Air LLC,1,126672.0,2018
+KAQ,Kalitta Air LLC,2,132259.0,2018
+KAQ,Kalitta Air LLC,3,144241.0,2018
+KAQ,Kalitta Air LLC,4,164372.0,2018
+KD,Western Global,1,22006.0,2018
+KD,Western Global,2,26526.0,2018
+KD,Western Global,3,21433.0,2018
+KD,Western Global,4,26139.0,2018
+KH,Aloha Air Cargo,1,20896.0,2018
+KH,Aloha Air Cargo,2,19924.0,2018
+KH,Aloha Air Cargo,3,19555.0,2018
+KH,Aloha Air Cargo,4,20005.0,2018
+KLQ,Kalitta Charters II,1,5998.0,2018
+KLQ,Kalitta Charters II,2,5837.0,2018
+KLQ,Kalitta Charters II,3,6823.0,2018
+KLQ,Kalitta Charters II,4,9104.0,2018
+L2,Lynden Air Cargo Airlines,1,13246.0,2018
+L2,Lynden Air Cargo Airlines,2,13213.0,2018
+L2,Lynden Air Cargo Airlines,3,14897.0,2018
+L2,Lynden Air Cargo Airlines,4,13350.0,2018
+M6,Amerijet International,1,95273.0,2018
+M6,Amerijet International,2,92356.0,2018
+M6,Amerijet International,3,92748.0,2018
+M6,Amerijet International,4,95119.0,2018
+MQ,Envoy Air,1,99380.0,2018
+MQ,Envoy Air,2,105424.0,2018
+MQ,Envoy Air,3,103467.0,2018
+MQ,Envoy Air,4,117347.0,2018
+N8,National Air Cargo Group Inc d/ba National Airlines,1,2619.0,2018
+N8,National Air Cargo Group Inc d/ba National Airlines,2,15351.0,2018
+N8,National Air Cargo Group Inc d/ba National Airlines,3,15465.0,2018
+N8,National Air Cargo Group Inc d/ba National Airlines,4,23440.0,2018
+NC,Northern Air Cargo Inc.,1,-21908.0,2018
+NC,Northern Air Cargo Inc.,2,-12635.0,2018
+NC,Northern Air Cargo Inc.,3,-8817.0,2018
+NC,Northern Air Cargo Inc.,4,1240.0,2018
+NK,Spirit Air Lines,1,1056651.0,2018
+NK,Spirit Air Lines,2,909428.0,2018
+NK,Spirit Air Lines,3,834612.0,2018
+NK,Spirit Air Lines,4,843775.0,2018
+OH,PSA Airlines Inc.,1,158129.0,2018
+OH,PSA Airlines Inc.,2,156364.0,2018
+OH,PSA Airlines Inc.,3,168069.0,2018
+OH,PSA Airlines Inc.,4,196742.0,2018
+OO,SkyWest Airlines Inc.,1,876769.0,2018
+OO,SkyWest Airlines Inc.,2,900449.0,2018
+OO,SkyWest Airlines Inc.,3,918444.0,2018
+OO,SkyWest Airlines Inc.,4,1070868.0,2018
+PFQ,Asia Pacific,1,4938.0,2018
+PFQ,Asia Pacific,2,3776.0,2018
+PFQ,Asia Pacific,3,4541.0,2018
+PFQ,Asia Pacific,4,6560.0,2018
+PO,Polar Air Cargo Airways,1,111067.0,2018
+PO,Polar Air Cargo Airways,2,119064.0,2018
+PO,Polar Air Cargo Airways,3,97378.0,2018
+PO,Polar Air Cargo Airways,4,115559.0,2018
+QX,Horizon Air,1,462085.0,2018
+QX,Horizon Air,2,563392.0,2018
+QX,Horizon Air,3,592790.0,2018
+QX,Horizon Air,4,760550.0,2018
+SY,Sun Country Airlines d/b/a MN Airlines,1,142385.0,2018
+SY,Sun Country Airlines d/b/a MN Airlines,2,212128.0,2018
+SY,Sun Country Airlines d/b/a MN Airlines,3,211417.0,2018
+SY,Sun Country Airlines d/b/a MN Airlines,4,246880.0,2018
+U7,USA Jet Airlines Inc.,1,124763.0,2018
+U7,USA Jet Airlines Inc.,2,60772.0,2018
+U7,USA Jet Airlines Inc.,3,70966.0,2018
+U7,USA Jet Airlines Inc.,4,60378.0,2018
+UA,United Air Lines Inc.,1,14187928.0,2018
+UA,United Air Lines Inc.,2,14096338.0,2018
+UA,United Air Lines Inc.,3,13688932.0,2018
+UA,United Air Lines Inc.,4,13216883.0,2018
+WI,Sky Lease Cargo,1,33969.0,2018
+WI,Sky Lease Cargo,2,35543.0,2018
+WI,Sky Lease Cargo,3,35290.0,2018
+WI,Sky Lease Cargo,4,35391.0,2018
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,11264.0,2018
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,12783.0,2018
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,14202.0,2018
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,11483.0,2018
+WN,Southwest Airlines Co.,1,7161757.0,2018
+WN,Southwest Airlines Co.,2,7715936.0,2018
+WN,Southwest Airlines Co.,3,7843008.0,2018
+WN,Southwest Airlines Co.,4,7904840.0,2018
+X9,Omni Air International LLC,1,44037.0,2018
+X9,Omni Air International LLC,2,49454.0,2018
+X9,Omni Air International LLC,3,40666.0,2018
+X9,Omni Air International LLC,4,51597.0,2018
+XP,TEM Enterprises dba  Avelo Airlines,1,11215.0,2018
+XP,TEM Enterprises dba  Avelo Airlines,2,,2018
+XP,TEM Enterprises dba  Avelo Airlines,3,,2018
+XP,TEM Enterprises dba  Avelo Airlines,4,260.0,2018
+YV,Mesa Airlines Inc.,1,109740.0,2018
+YV,Mesa Airlines Inc.,2,119873.0,2018
+YV,Mesa Airlines Inc.,3,129913.0,2018
+YV,Mesa Airlines Inc.,4,90425.0,2018
+YX,Republic Airline,1,357450.0,2018
+YX,Republic Airline,2,359971.0,2018
+YX,Republic Airline,3,375531.0,2018
+YX,Republic Airline,4,381086.0,2018
+ZW,Air Wisconsin Airlines Corp,1,37752.0,2018
+ZW,Air Wisconsin Airlines Corp,2,43907.0,2018
+ZW,Air Wisconsin Airlines Corp,3,244291.0,2018
+ZW,Air Wisconsin Airlines Corp,4,62548.0,2018
+All Rows,All Rows (including those not displayed),1,42408984.0,2018
+All Rows,All Rows (including those not displayed),2,42366503.0,2018
+All Rows,All Rows (including those not displayed),3,78704154.0,2018
+All Rows,All Rows (including those not displayed),4,81827548.0,2018
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,37547.0,2019
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,36396.0,2019
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,,2019
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,93431.0,2019
+0WQ,Avjet Corporation,1,37141.0,2019
+0WQ,Avjet Corporation,2,34930.0,2019
+0WQ,Avjet Corporation,3,42219.0,2019
+0WQ,Avjet Corporation,4,37789.0,2019
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,11320.0,2019
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,14211.0,2019
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,21213.0,2019
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,14268.0,2019
+27Q,"Jet Aviation Flight Services, Inc.",1,49176.0,2019
+27Q,"Jet Aviation Flight Services, Inc.",2,58926.0,2019
+27Q,"Jet Aviation Flight Services, Inc.",3,33197.0,2019
+27Q,"Jet Aviation Flight Services, Inc.",4,26156.0,2019
+2HQ,Elite Airways LLC,1,18708.0,2019
+2HQ,Elite Airways LLC,2,19801.0,2019
+2HQ,Elite Airways LLC,3,22959.0,2019
+2HQ,Elite Airways LLC,4,21289.0,2019
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1,4211.0,2019
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",2,6715.0,2019
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3,6928.0,2019
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",4,6536.0,2019
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,2315.0,2019
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,1386.0,2019
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,935.0,2019
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,539.0,2019
+5X,United Parcel Service,1,656491.0,2019
+5X,United Parcel Service,2,674728.0,2019
+5X,United Parcel Service,3,689470.0,2019
+5X,United Parcel Service,4,737196.0,2019
+5Y,Atlas Air Inc.,1,630070.0,2019
+5Y,Atlas Air Inc.,2,775046.0,2019
+5Y,Atlas Air Inc.,3,694626.0,2019
+5Y,Atlas Air Inc.,4,672796.0,2019
+8C,Air Transport International,1,,2019
+8C,Air Transport International,2,36130.0,2019
+8C,Air Transport International,3,37055.0,2019
+8C,Air Transport International,4,46931.0,2019
+9E,Endeavor Air Inc.,1,137505.0,2019
+9E,Endeavor Air Inc.,2,139546.0,2019
+9E,Endeavor Air Inc.,3,131101.0,2019
+9E,Endeavor Air Inc.,4,140037.0,2019
+9S,Southern Air Inc.,1,14919.0,2019
+9S,Southern Air Inc.,2,15906.0,2019
+9S,Southern Air Inc.,3,17220.0,2019
+9S,Southern Air Inc.,4,16570.0,2019
+AA,American Airlines Inc.,1,18375068.0,2019
+AA,American Airlines Inc.,2,18643304.0,2019
+AA,American Airlines Inc.,3,18058591.0,2019
+AA,American Airlines Inc.,4,17559671.0,2019
+ABX,ABX Air Inc,1,42387.0,2019
+ABX,ABX Air Inc,2,46988.0,2019
+ABX,ABX Air Inc,3,48191.0,2019
+ABX,ABX Air Inc,4,51145.0,2019
+AS,Alaska Airlines Inc.,1,5011368.0,2019
+AS,Alaska Airlines Inc.,2,5113587.0,2019
+AS,Alaska Airlines Inc.,3,4969744.0,2019
+AS,Alaska Airlines Inc.,4,4888068.0,2019
+B6,JetBlue Airways,1,2850888.0,2019
+B6,JetBlue Airways,2,2888509.0,2019
+B6,JetBlue Airways,3,2759502.0,2019
+B6,JetBlue Airways,4,2663170.0,2019
+CP (2),Compass Airlines,1,30476.0,2019
+CP (2),Compass Airlines,2,30048.0,2019
+CP (2),Compass Airlines,3,26970.0,2019
+CP (2),Compass Airlines,4,29504.0,2019
+DL,Delta Air Lines Inc.,1,21310922.0,2019
+DL,Delta Air Lines Inc.,2,21150033.0,2019
+DL,Delta Air Lines Inc.,3,20183273.0,2019
+DL,Delta Air Lines Inc.,4,20187508.0,2019
+EV,ExpressJet Airlines LLC d/b/a aha!,1,-161686.0,2019
+EV,ExpressJet Airlines LLC d/b/a aha!,2,68693.0,2019
+EV,ExpressJet Airlines LLC d/b/a aha!,3,98818.0,2019
+EV,ExpressJet Airlines LLC d/b/a aha!,4,102180.0,2019
+F9,Frontier Airlines Inc.,1,1196649.0,2019
+F9,Frontier Airlines Inc.,2,1232779.0,2019
+F9,Frontier Airlines Inc.,3,1156721.0,2019
+F9,Frontier Airlines Inc.,4,1236641.0,2019
+FX,Federal Express Corporation,1,9285942.0,2019
+FX,Federal Express Corporation,2,9947035.0,2019
+FX,Federal Express Corporation,3,9690944.0,2019
+FX,Federal Express Corporation,4,9820445.0,2019
+G4,Allegiant Air,1,545842.0,2019
+G4,Allegiant Air,2,556711.0,2019
+G4,Allegiant Air,3,519152.0,2019
+G4,Allegiant Air,4,581771.0,2019
+G7,GoJet Airlines LLC d/b/a United Express,1,80212.0,2019
+G7,GoJet Airlines LLC d/b/a United Express,2,69914.0,2019
+G7,GoJet Airlines LLC d/b/a United Express,3,46995.0,2019
+G7,GoJet Airlines LLC d/b/a United Express,4,45046.0,2019
+GFQ,Gulf And Caribbean Cargo,1,30750.0,2019
+GFQ,Gulf And Caribbean Cargo,2,27941.0,2019
+GFQ,Gulf And Caribbean Cargo,3,28058.0,2019
+GFQ,Gulf And Caribbean Cargo,4,29143.0,2019
+GL,Miami Air International,1,22891.0,2019
+GL,Miami Air International,2,17148.0,2019
+GL,Miami Air International,3,18005.0,2019
+GL,Miami Air International,4,18228.0,2019
+HA,Hawaiian Airlines Inc.,1,1142993.0,2019
+HA,Hawaiian Airlines Inc.,2,1143732.0,2019
+HA,Hawaiian Airlines Inc.,3,1112170.0,2019
+HA,Hawaiian Airlines Inc.,4,1060093.0,2019
+KAQ,Kalitta Air LLC,1,154159.0,2019
+KAQ,Kalitta Air LLC,2,143773.0,2019
+KAQ,Kalitta Air LLC,3,146323.0,2019
+KAQ,Kalitta Air LLC,4,156092.0,2019
+KD,Western Global,1,24203.0,2019
+KD,Western Global,2,26456.0,2019
+KD,Western Global,3,27428.0,2019
+KD,Western Global,4,51918.0,2019
+KH,Aloha Air Cargo,1,11336.0,2019
+KH,Aloha Air Cargo,2,-3294.0,2019
+KH,Aloha Air Cargo,3,-6005.0,2019
+KH,Aloha Air Cargo,4,-15261.0,2019
+KLQ,Kalitta Charters II,1,6877.0,2019
+KLQ,Kalitta Charters II,2,6764.0,2019
+KLQ,Kalitta Charters II,3,5576.0,2019
+KLQ,Kalitta Charters II,4,5845.0,2019
+L2,Lynden Air Cargo Airlines,1,14353.0,2019
+L2,Lynden Air Cargo Airlines,2,16906.0,2019
+L2,Lynden Air Cargo Airlines,3,15383.0,2019
+L2,Lynden Air Cargo Airlines,4,15603.0,2019
+M6,Amerijet International,1,92382.0,2019
+M6,Amerijet International,2,96139.0,2019
+M6,Amerijet International,3,99424.0,2019
+M6,Amerijet International,4,85401.0,2019
+MQ,Envoy Air,1,112073.0,2019
+MQ,Envoy Air,2,115776.0,2019
+MQ,Envoy Air,3,115066.0,2019
+MQ,Envoy Air,4,120928.0,2019
+N8,National Air Cargo Group Inc d/ba National Airlines,1,21464.0,2019
+N8,National Air Cargo Group Inc d/ba National Airlines,2,20131.0,2019
+N8,National Air Cargo Group Inc d/ba National Airlines,3,23568.0,2019
+N8,National Air Cargo Group Inc d/ba National Airlines,4,22667.0,2019
+NC,Northern Air Cargo Inc.,1,13010.0,2019
+NC,Northern Air Cargo Inc.,2,30867.0,2019
+NC,Northern Air Cargo Inc.,3,51496.0,2019
+NC,Northern Air Cargo Inc.,4,67532.0,2019
+NK,Spirit Air Lines,1,2028621.0,2019
+NK,Spirit Air Lines,2,2132021.0,2019
+NK,Spirit Air Lines,3,1969029.0,2019
+NK,Spirit Air Lines,4,1112043.0,2019
+OH,PSA Airlines Inc.,1,220688.0,2019
+OH,PSA Airlines Inc.,2,214854.0,2019
+OH,PSA Airlines Inc.,3,220953.0,2019
+OH,PSA Airlines Inc.,4,257974.0,2019
+OO,SkyWest Airlines Inc.,1,1225628.0,2019
+OO,SkyWest Airlines Inc.,2,1216147.0,2019
+OO,SkyWest Airlines Inc.,3,1254113.0,2019
+OO,SkyWest Airlines Inc.,4,1231326.0,2019
+PFQ,Asia Pacific,1,5471.0,2019
+PFQ,Asia Pacific,2,5571.0,2019
+PFQ,Asia Pacific,3,10600.0,2019
+PFQ,Asia Pacific,4,12401.0,2019
+PO,Polar Air Cargo Airways,1,224173.0,2019
+PO,Polar Air Cargo Airways,2,213005.0,2019
+PO,Polar Air Cargo Airways,3,212454.0,2019
+PO,Polar Air Cargo Airways,4,190499.0,2019
+QX,Horizon Air,1,711242.0,2019
+QX,Horizon Air,2,713486.0,2019
+QX,Horizon Air,3,707300.0,2019
+QX,Horizon Air,4,676331.0,2019
+SY,Sun Country Airlines d/b/a MN Airlines,1,242194.0,2019
+SY,Sun Country Airlines d/b/a MN Airlines,2,245050.0,2019
+SY,Sun Country Airlines d/b/a MN Airlines,3,237495.0,2019
+SY,Sun Country Airlines d/b/a MN Airlines,4,353553.0,2019
+U7,USA Jet Airlines Inc.,1,63380.0,2019
+U7,USA Jet Airlines Inc.,2,42896.0,2019
+U7,USA Jet Airlines Inc.,3,41233.0,2019
+U7,USA Jet Airlines Inc.,4,56176.0,2019
+UA,United Air Lines Inc.,1,15339833.0,2019
+UA,United Air Lines Inc.,2,16081975.0,2019
+UA,United Air Lines Inc.,3,15695971.0,2019
+UA,United Air Lines Inc.,4,14942506.0,2019
+WI,Sky Lease Cargo,1,33614.0,2019
+WI,Sky Lease Cargo,2,36173.0,2019
+WI,Sky Lease Cargo,3,32435.0,2019
+WI,Sky Lease Cargo,4,29912.0,2019
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,11488.0,2019
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,12732.0,2019
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,15251.0,2019
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,9146.0,2019
+WN,Southwest Airlines Co.,1,8722820.0,2019
+WN,Southwest Airlines Co.,2,8610938.0,2019
+WN,Southwest Airlines Co.,3,8628808.0,2019
+WN,Southwest Airlines Co.,4,8951603.0,2019
+X9,Omni Air International LLC,1,61181.0,2019
+X9,Omni Air International LLC,2,70054.0,2019
+X9,Omni Air International LLC,3,80504.0,2019
+X9,Omni Air International LLC,4,86740.0,2019
+XP,TEM Enterprises dba  Avelo Airlines,1,380.0,2019
+XP,TEM Enterprises dba  Avelo Airlines,2,586.0,2019
+XP,TEM Enterprises dba  Avelo Airlines,3,884.0,2019
+XP,TEM Enterprises dba  Avelo Airlines,4,1085.0,2019
+YV,Mesa Airlines Inc.,1,81345.0,2019
+YV,Mesa Airlines Inc.,2,102887.0,2019
+YV,Mesa Airlines Inc.,3,95082.0,2019
+YV,Mesa Airlines Inc.,4,140003.0,2019
+YX,Republic Airline,1,411827.0,2019
+YX,Republic Airline,2,432366.0,2019
+YX,Republic Airline,3,427058.0,2019
+YX,Republic Airline,4,439030.0,2019
+ZW,Air Wisconsin Airlines Corp,1,98683.0,2019
+ZW,Air Wisconsin Airlines Corp,2,74492.0,2019
+ZW,Air Wisconsin Airlines Corp,3,79554.0,2019
+ZW,Air Wisconsin Airlines Corp,4,76972.0,2019
+All Rows,All Rows (including those not displayed),1,91296529.0,2019
+All Rows,All Rows (including those not displayed),2,93408894.0,2019
+All Rows,All Rows (including those not displayed),3,90601039.0,2019
+All Rows,All Rows (including those not displayed),4,89164175.0,2019
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,78295.0,2020
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,82166.0,2020
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,73477.0,2020
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,84273.0,2020
+0WQ,Avjet Corporation,1,40347.0,2020
+0WQ,Avjet Corporation,2,37566.0,2020
+0WQ,Avjet Corporation,3,40465.0,2020
+0WQ,Avjet Corporation,4,35607.0,2020
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,11500.0,2020
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,16948.0,2020
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,16245.0,2020
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,18535.0,2020
+1TQ,Rhoades Aviation dba Transair,1,240.0,2020
+1TQ,Rhoades Aviation dba Transair,2,1503.0,2020
+1TQ,Rhoades Aviation dba Transair,3,1605.0,2020
+1TQ,Rhoades Aviation dba Transair,4,1529.0,2020
+27Q,"Jet Aviation Flight Services, Inc.",1,19179.0,2020
+27Q,"Jet Aviation Flight Services, Inc.",2,10302.0,2020
+27Q,"Jet Aviation Flight Services, Inc.",3,8988.0,2020
+27Q,"Jet Aviation Flight Services, Inc.",4,7089.0,2020
+2HQ,Elite Airways LLC,1,21198.0,2020
+2HQ,Elite Airways LLC,2,19530.0,2020
+2HQ,Elite Airways LLC,3,17822.0,2020
+2HQ,Elite Airways LLC,4,16054.0,2020
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1,10729.0,2020
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",2,8789.0,2020
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3,8052.0,2020
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",4,12340.0,2020
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",1,,2020
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",2,,2020
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",3,,2020
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",4,19028.0,2020
+3M,Silver Airways,1,52119.0,2020
+3M,Silver Airways,2,-56936.0,2020
+3M,Silver Airways,3,71684.0,2020
+3M,Silver Airways,4,64497.0,2020
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,2333.0,2020
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,2015.0,2020
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,6222.0,2020
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,5608.0,2020
+5X,United Parcel Service,1,731054.0,2020
+5X,United Parcel Service,2,769105.0,2020
+5X,United Parcel Service,3,856768.0,2020
+5X,United Parcel Service,4,918992.0,2020
+5Y,Atlas Air Inc.,1,639160.0,2020
+5Y,Atlas Air Inc.,2,730091.0,2020
+5Y,Atlas Air Inc.,3,766650.0,2020
+5Y,Atlas Air Inc.,4,808040.0,2020
+8C,Air Transport International,1,38025.0,2020
+8C,Air Transport International,2,43450.0,2020
+8C,Air Transport International,3,52478.0,2020
+8C,Air Transport International,4,46342.0,2020
+9E,Endeavor Air Inc.,1,164743.0,2020
+9E,Endeavor Air Inc.,2,123344.0,2020
+9E,Endeavor Air Inc.,3,143808.0,2020
+9E,Endeavor Air Inc.,4,143854.0,2020
+9S,Southern Air Inc.,1,31103.0,2020
+9S,Southern Air Inc.,2,24127.0,2020
+9S,Southern Air Inc.,3,27975.0,2020
+9S,Southern Air Inc.,4,35665.0,2020
+AA,American Airlines Inc.,1,18981343.0,2020
+AA,American Airlines Inc.,2,17618289.0,2020
+AA,American Airlines Inc.,3,16341755.0,2020
+AA,American Airlines Inc.,4,16307869.0,2020
+ABX,ABX Air Inc,1,49638.0,2020
+ABX,ABX Air Inc,2,47375.0,2020
+ABX,ABX Air Inc,3,50665.0,2020
+ABX,ABX Air Inc,4,41307.0,2020
+AS,Alaska Airlines Inc.,1,5425001.0,2020
+AS,Alaska Airlines Inc.,2,5869856.0,2020
+AS,Alaska Airlines Inc.,3,5952016.0,2020
+AS,Alaska Airlines Inc.,4,5798551.0,2020
+B6,JetBlue Airways,1,3622488.0,2020
+B6,JetBlue Airways,2,3984752.0,2020
+B6,JetBlue Airways,3,2808205.0,2020
+B6,JetBlue Airways,4,2673710.0,2020
+C5,CommuteAir LLC dba CommuteAir,1,,2020
+C5,CommuteAir LLC dba CommuteAir,2,,2020
+C5,CommuteAir LLC dba CommuteAir,3,,2020
+C5,CommuteAir LLC dba CommuteAir,4,41517.0,2020
+CP (2),Compass Airlines,1,31425.0,2020
+CP (2),Compass Airlines,2,23950.0,2020
+CP (2),Compass Airlines,3,,2020
+CP (2),Compass Airlines,4,,2020
+DL,Delta Air Lines Inc.,1,19367492.0,2020
+DL,Delta Air Lines Inc.,2,20168311.0,2020
+DL,Delta Air Lines Inc.,3,19734715.0,2020
+DL,Delta Air Lines Inc.,4,15930391.0,2020
+EV,ExpressJet Airlines LLC d/b/a aha!,1,107479.0,2020
+EV,ExpressJet Airlines LLC d/b/a aha!,2,104612.0,2020
+EV,ExpressJet Airlines LLC d/b/a aha!,3,88455.0,2020
+EV,ExpressJet Airlines LLC d/b/a aha!,4,,2020
+F9,Frontier Airlines Inc.,1,1157510.0,2020
+F9,Frontier Airlines Inc.,2,1131012.0,2020
+F9,Frontier Airlines Inc.,3,1020959.0,2020
+F9,Frontier Airlines Inc.,4,1003057.0,2020
+FX,Federal Express Corporation,1,9600493.0,2020
+FX,Federal Express Corporation,2,10403541.0,2020
+FX,Federal Express Corporation,3,8488664.0,2020
+FX,Federal Express Corporation,4,8871529.0,2020
+G4,Allegiant Air,1,675901.0,2020
+G4,Allegiant Air,2,778439.0,2020
+G4,Allegiant Air,3,720383.0,2020
+G4,Allegiant Air,4,651113.0,2020
+G7,GoJet Airlines LLC d/b/a United Express,1,58725.0,2020
+G7,GoJet Airlines LLC d/b/a United Express,2,72311.0,2020
+G7,GoJet Airlines LLC d/b/a United Express,3,78627.0,2020
+G7,GoJet Airlines LLC d/b/a United Express,4,63113.0,2020
+GFQ,Gulf And Caribbean Cargo,1,30525.0,2020
+GFQ,Gulf And Caribbean Cargo,2,26231.0,2020
+GFQ,Gulf And Caribbean Cargo,3,27514.0,2020
+GFQ,Gulf And Caribbean Cargo,4,26305.0,2020
+HA,Hawaiian Airlines Inc.,1,1065397.0,2020
+HA,Hawaiian Airlines Inc.,2,1028670.0,2020
+HA,Hawaiian Airlines Inc.,3,954065.0,2020
+HA,Hawaiian Airlines Inc.,4,996151.0,2020
+KAQ,Kalitta Air LLC,1,149834.0,2020
+KAQ,Kalitta Air LLC,2,165389.0,2020
+KAQ,Kalitta Air LLC,3,271370.0,2020
+KAQ,Kalitta Air LLC,4,211939.0,2020
+KD,Western Global,1,32583.0,2020
+KD,Western Global,2,32669.0,2020
+KD,Western Global,3,70624.0,2020
+KD,Western Global,4,87646.0,2020
+KH,Aloha Air Cargo,1,-19017.0,2020
+KH,Aloha Air Cargo,2,-19532.0,2020
+KH,Aloha Air Cargo,3,-16512.0,2020
+KH,Aloha Air Cargo,4,-19743.0,2020
+KLQ,Kalitta Charters II,1,3340.0,2020
+KLQ,Kalitta Charters II,2,4148.0,2020
+KLQ,Kalitta Charters II,3,5437.0,2020
+KLQ,Kalitta Charters II,4,5676.0,2020
+L2,Lynden Air Cargo Airlines,1,13135.0,2020
+L2,Lynden Air Cargo Airlines,2,22150.0,2020
+L2,Lynden Air Cargo Airlines,3,25052.0,2020
+L2,Lynden Air Cargo Airlines,4,17000.0,2020
+M6,Amerijet International,1,84704.0,2020
+M6,Amerijet International,2,88607.0,2020
+M6,Amerijet International,3,76340.0,2020
+M6,Amerijet International,4,68022.0,2020
+MQ,Envoy Air,1,113207.0,2020
+MQ,Envoy Air,2,182135.0,2020
+MQ,Envoy Air,3,154123.0,2020
+MQ,Envoy Air,4,138181.0,2020
+N8,National Air Cargo Group Inc d/ba National Airlines,1,20374.0,2020
+N8,National Air Cargo Group Inc d/ba National Airlines,2,11300.0,2020
+N8,National Air Cargo Group Inc d/ba National Airlines,3,22527.0,2020
+N8,National Air Cargo Group Inc d/ba National Airlines,4,4907.0,2020
+NC,Northern Air Cargo Inc.,1,44120.0,2020
+NC,Northern Air Cargo Inc.,2,38878.0,2020
+NC,Northern Air Cargo Inc.,3,63768.0,2020
+NC,Northern Air Cargo Inc.,4,78000.0,2020
+NK,Spirit Air Lines,1,1231486.0,2020
+NK,Spirit Air Lines,2,1271182.0,2020
+NK,Spirit Air Lines,3,1296703.0,2020
+NK,Spirit Air Lines,4,1342022.0,2020
+OH,PSA Airlines Inc.,1,289597.0,2020
+OH,PSA Airlines Inc.,2,290964.0,2020
+OH,PSA Airlines Inc.,3,308106.0,2020
+OH,PSA Airlines Inc.,4,394143.0,2020
+OO,SkyWest Airlines Inc.,1,1053981.0,2020
+OO,SkyWest Airlines Inc.,2,1021213.0,2020
+OO,SkyWest Airlines Inc.,3,888039.0,2020
+OO,SkyWest Airlines Inc.,4,961115.0,2020
+PFQ,Asia Pacific,1,5457.0,2020
+PFQ,Asia Pacific,2,7680.0,2020
+PFQ,Asia Pacific,3,10562.0,2020
+PFQ,Asia Pacific,4,13213.0,2020
+PO,Polar Air Cargo Airways,1,194877.0,2020
+PO,Polar Air Cargo Airways,2,200191.0,2020
+PO,Polar Air Cargo Airways,3,170396.0,2020
+PO,Polar Air Cargo Airways,4,244439.0,2020
+QX,Horizon Air,1,636120.0,2020
+QX,Horizon Air,2,596188.0,2020
+QX,Horizon Air,3,264804.0,2020
+QX,Horizon Air,4,234715.0,2020
+SY,Sun Country Airlines d/b/a MN Airlines,1,341479.0,2020
+SY,Sun Country Airlines d/b/a MN Airlines,2,247442.0,2020
+SY,Sun Country Airlines d/b/a MN Airlines,3,259027.0,2020
+SY,Sun Country Airlines d/b/a MN Airlines,4,253743.0,2020
+U7,USA Jet Airlines Inc.,1,34925.0,2020
+U7,USA Jet Airlines Inc.,2,25976.0,2020
+U7,USA Jet Airlines Inc.,3,86614.0,2020
+U7,USA Jet Airlines Inc.,4,144910.0,2020
+UA,United Air Lines Inc.,1,16091109.0,2020
+UA,United Air Lines Inc.,2,16399600.0,2020
+UA,United Air Lines Inc.,3,15795614.0,2020
+UA,United Air Lines Inc.,4,12730039.0,2020
+WI,Sky Lease Cargo,1,33755.0,2020
+WI,Sky Lease Cargo,2,29246.0,2020
+WI,Sky Lease Cargo,3,38911.0,2020
+WI,Sky Lease Cargo,4,31720.0,2020
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,10386.0,2020
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,11104.0,2020
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,10162.0,2020
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,8322.0,2020
+WN,Southwest Airlines Co.,1,10241328.0,2020
+WN,Southwest Airlines Co.,2,9360641.0,2020
+WN,Southwest Airlines Co.,3,7804094.0,2020
+WN,Southwest Airlines Co.,4,7505890.0,2020
+X9,Omni Air International LLC,1,91437.0,2020
+X9,Omni Air International LLC,2,104008.0,2020
+X9,Omni Air International LLC,3,109219.0,2020
+X9,Omni Air International LLC,4,125270.0,2020
+XP,TEM Enterprises dba  Avelo Airlines,1,,2020
+XP,TEM Enterprises dba  Avelo Airlines,2,8545.0,2020
+XP,TEM Enterprises dba  Avelo Airlines,3,,2020
+XP,TEM Enterprises dba  Avelo Airlines,4,,2020
+YV,Mesa Airlines Inc.,1,150484.0,2020
+YV,Mesa Airlines Inc.,2,148747.0,2020
+YV,Mesa Airlines Inc.,3,167873.0,2020
+YV,Mesa Airlines Inc.,4,117199.0,2020
+YX,Republic Airline,1,398184.0,2020
+YX,Republic Airline,2,372613.0,2020
+YX,Republic Airline,3,407525.0,2020
+YX,Republic Airline,4,415553.0,2020
+ZW,Air Wisconsin Airlines Corp,1,76946.0,2020
+ZW,Air Wisconsin Airlines Corp,2,76948.0,2020
+ZW,Air Wisconsin Airlines Corp,3,82093.0,2020
+ZW,Air Wisconsin Airlines Corp,4,79549.0,2020
+All Rows,All Rows (including those not displayed),1,93337270.0,2020
+All Rows,All Rows (including those not displayed),2,93767377.0,2020
+All Rows,All Rows (including those not displayed),3,86730732.0,2020
+All Rows,All Rows (including those not displayed),4,79815537.0,2020
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,76523.0,2021
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,62091.0,2021
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,64474.0,2021
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,112310.0,2021
+0WQ,Avjet Corporation,1,,2021
+0WQ,Avjet Corporation,2,35609.0,2021
+0WQ,Avjet Corporation,3,29503.0,2021
+0WQ,Avjet Corporation,4,32288.0,2021
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,33245.0,2021
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,41120.0,2021
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,38780.0,2021
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,33245.0,2021
+1TQ,Rhoades Aviation dba Transair,1,240.0,2021
+1TQ,Rhoades Aviation dba Transair,2,204.0,2021
+1TQ,Rhoades Aviation dba Transair,3,,2021
+1TQ,Rhoades Aviation dba Transair,4,106.0,2021
+27Q,"Jet Aviation Flight Services, Inc.",1,-12475.0,2021
+27Q,"Jet Aviation Flight Services, Inc.",2,-13691.0,2021
+27Q,"Jet Aviation Flight Services, Inc.",3,-12495.0,2021
+27Q,"Jet Aviation Flight Services, Inc.",4,-16849.0,2021
+2HQ,Elite Airways LLC,1,16778.0,2021
+2HQ,Elite Airways LLC,2,13523.0,2021
+2HQ,Elite Airways LLC,3,13575.0,2021
+2HQ,Elite Airways LLC,4,14886.0,2021
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1,13274.0,2021
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",2,12430.0,2021
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3,14991.0,2021
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",4,17508.0,2021
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",1,21072.0,2021
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",2,55086.0,2021
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",3,91644.0,2021
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",4,163992.0,2021
+3M,Silver Airways,1,70820.0,2021
+3M,Silver Airways,2,72877.0,2021
+3M,Silver Airways,3,55733.0,2021
+3M,Silver Airways,4,51840.0,2021
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,6812.0,2021
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,7447.0,2021
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,8361.0,2021
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,6601.0,2021
+5X,United Parcel Service,1,1015692.0,2021
+5X,United Parcel Service,2,988027.0,2021
+5X,United Parcel Service,3,991232.0,2021
+5X,United Parcel Service,4,1039456.0,2021
+5Y,Atlas Air Inc.,1,739595.0,2021
+5Y,Atlas Air Inc.,2,752483.0,2021
+5Y,Atlas Air Inc.,3,806565.0,2021
+5Y,Atlas Air Inc.,4,922108.0,2021
+8C,Air Transport International,1,42515.0,2021
+8C,Air Transport International,2,46930.0,2021
+8C,Air Transport International,3,53244.0,2021
+8C,Air Transport International,4,55890.0,2021
+9E,Endeavor Air Inc.,1,165809.0,2021
+9E,Endeavor Air Inc.,2,155095.0,2021
+9E,Endeavor Air Inc.,3,164060.0,2021
+9E,Endeavor Air Inc.,4,167558.0,2021
+9S,Southern Air Inc.,1,59894.0,2021
+9S,Southern Air Inc.,2,64167.0,2021
+9S,Southern Air Inc.,3,54246.0,2021
+9S,Southern Air Inc.,4,62.0,2021
+AA,American Airlines Inc.,1,17069488.0,2021
+AA,American Airlines Inc.,2,20332888.0,2021
+AA,American Airlines Inc.,3,17782430.0,2021
+AA,American Airlines Inc.,4,17864371.0,2021
+ABX,ABX Air Inc,1,44819.0,2021
+ABX,ABX Air Inc,2,41771.0,2021
+ABX,ABX Air Inc,3,40636.0,2021
+ABX,ABX Air Inc,4,39828.0,2021
+AS,Alaska Airlines Inc.,1,6298640.0,2021
+AS,Alaska Airlines Inc.,2,6391958.0,2021
+AS,Alaska Airlines Inc.,3,5569333.0,2021
+AS,Alaska Airlines Inc.,4,5616339.0,2021
+B6,JetBlue Airways,1,3131195.0,2021
+B6,JetBlue Airways,2,3972807.0,2021
+B6,JetBlue Airways,3,3565367.0,2021
+B6,JetBlue Airways,4,3416540.0,2021
+C5,CommuteAir LLC dba CommuteAir,1,49846.0,2021
+C5,CommuteAir LLC dba CommuteAir,2,67657.0,2021
+C5,CommuteAir LLC dba CommuteAir,3,65473.0,2021
+C5,CommuteAir LLC dba CommuteAir,4,73182.0,2021
+DL,Delta Air Lines Inc.,1,20685385.0,2021
+DL,Delta Air Lines Inc.,2,23543931.0,2021
+DL,Delta Air Lines Inc.,3,20899487.0,2021
+DL,Delta Air Lines Inc.,4,20928301.0,2021
+F9,Frontier Airlines Inc.,1,1193917.0,2021
+F9,Frontier Airlines Inc.,2,1412929.0,2021
+F9,Frontier Airlines Inc.,3,1258502.0,2021
+F9,Frontier Airlines Inc.,4,1325646.0,2021
+FX,Federal Express Corporation,1,8876905.0,2021
+FX,Federal Express Corporation,2,8744345.0,2021
+FX,Federal Express Corporation,3,9191491.0,2021
+FX,Federal Express Corporation,4,8677560.0,2021
+G4,Allegiant Air,1,727792.0,2021
+G4,Allegiant Air,2,816221.0,2021
+G4,Allegiant Air,3,686600.0,2021
+G4,Allegiant Air,4,654387.0,2021
+G7,GoJet Airlines LLC d/b/a United Express,1,66518.0,2021
+G7,GoJet Airlines LLC d/b/a United Express,2,76152.0,2021
+G7,GoJet Airlines LLC d/b/a United Express,3,64947.0,2021
+G7,GoJet Airlines LLC d/b/a United Express,4,59365.0,2021
+GFQ,Gulf And Caribbean Cargo,1,28280.0,2021
+GFQ,Gulf And Caribbean Cargo,2,27770.0,2021
+GFQ,Gulf And Caribbean Cargo,3,16045.0,2021
+GFQ,Gulf And Caribbean Cargo,4,16512.0,2021
+HA,Hawaiian Airlines Inc.,1,1190731.0,2021
+HA,Hawaiian Airlines Inc.,2,1429557.0,2021
+HA,Hawaiian Airlines Inc.,3,1221002.0,2021
+HA,Hawaiian Airlines Inc.,4,1096689.0,2021
+KAQ,Kalitta Air LLC,1,199052.0,2021
+KAQ,Kalitta Air LLC,2,195628.0,2021
+KAQ,Kalitta Air LLC,3,257611.0,2021
+KAQ,Kalitta Air LLC,4,215780.0,2021
+KD,Western Global,1,168883.0,2021
+KD,Western Global,2,163391.0,2021
+KD,Western Global,3,148589.0,2021
+KD,Western Global,4,159508.0,2021
+KH,Aloha Air Cargo,1,-34079.0,2021
+KH,Aloha Air Cargo,2,-36218.0,2021
+KH,Aloha Air Cargo,3,-44011.0,2021
+KH,Aloha Air Cargo,4,-58253.0,2021
+KLQ,Kalitta Charters II,1,5434.0,2021
+KLQ,Kalitta Charters II,2,,2021
+KLQ,Kalitta Charters II,3,,2021
+KLQ,Kalitta Charters II,4,,2021
+L2,Lynden Air Cargo Airlines,1,9430.0,2021
+L2,Lynden Air Cargo Airlines,2,13063.0,2021
+L2,Lynden Air Cargo Airlines,3,9889.0,2021
+L2,Lynden Air Cargo Airlines,4,11617.0,2021
+M6,Amerijet International,1,70798.0,2021
+M6,Amerijet International,2,55423.0,2021
+M6,Amerijet International,3,46706.0,2021
+M6,Amerijet International,4,63477.0,2021
+MQ,Envoy Air,1,134127.0,2021
+MQ,Envoy Air,2,195624.0,2021
+MQ,Envoy Air,3,238563.0,2021
+MQ,Envoy Air,4,233083.0,2021
+MX,Breeze Aviation Group DBA  Breeze,1,,2021
+MX,Breeze Aviation Group DBA  Breeze,2,,2021
+MX,Breeze Aviation Group DBA  Breeze,3,48011.0,2021
+MX,Breeze Aviation Group DBA  Breeze,4,69160.0,2021
+N8,National Air Cargo Group Inc d/ba National Airlines,1,3511.0,2021
+N8,National Air Cargo Group Inc d/ba National Airlines,2,2358.0,2021
+N8,National Air Cargo Group Inc d/ba National Airlines,3,2888.0,2021
+N8,National Air Cargo Group Inc d/ba National Airlines,4,6933.0,2021
+NC,Northern Air Cargo Inc.,1,105615.0,2021
+NC,Northern Air Cargo Inc.,2,108349.0,2021
+NC,Northern Air Cargo Inc.,3,114971.0,2021
+NC,Northern Air Cargo Inc.,4,98058.0,2021
+NK,Spirit Air Lines,1,1508080.0,2021
+NK,Spirit Air Lines,2,1601179.0,2021
+NK,Spirit Air Lines,3,1303901.0,2021
+NK,Spirit Air Lines,4,1275602.0,2021
+OH,PSA Airlines Inc.,1,440073.0,2021
+OH,PSA Airlines Inc.,2,451054.0,2021
+OH,PSA Airlines Inc.,3,434759.0,2021
+OH,PSA Airlines Inc.,4,478460.0,2021
+OO,SkyWest Airlines Inc.,1,975352.0,2021
+OO,SkyWest Airlines Inc.,2,1128444.0,2021
+OO,SkyWest Airlines Inc.,3,1149769.0,2021
+OO,SkyWest Airlines Inc.,4,1202954.0,2021
+PFQ,Asia Pacific,1,15272.0,2021
+PFQ,Asia Pacific,2,15031.0,2021
+PFQ,Asia Pacific,3,15913.0,2021
+PFQ,Asia Pacific,4,16729.0,2021
+PO,Polar Air Cargo Airways,1,218674.0,2021
+PO,Polar Air Cargo Airways,2,218674.0,2021
+PO,Polar Air Cargo Airways,3,204698.0,2021
+PO,Polar Air Cargo Airways,4,234387.0,2021
+PT,Piedmont Airlines,1,154682.0,2021
+PT,Piedmont Airlines,2,133471.0,2021
+PT,Piedmont Airlines,3,145432.0,2021
+PT,Piedmont Airlines,4,118275.0,2021
+QX,Horizon Air,1,225412.0,2021
+QX,Horizon Air,2,210515.0,2021
+QX,Horizon Air,3,213632.0,2021
+QX,Horizon Air,4,220287.0,2021
+SY,Sun Country Airlines d/b/a MN Airlines,1,237640.0,2021
+SY,Sun Country Airlines d/b/a MN Airlines,2,250806.0,2021
+SY,Sun Country Airlines d/b/a MN Airlines,3,241620.0,2021
+SY,Sun Country Airlines d/b/a MN Airlines,4,281651.0,2021
+U7,USA Jet Airlines Inc.,1,5374.0,2021
+U7,USA Jet Airlines Inc.,2,4868.0,2021
+U7,USA Jet Airlines Inc.,3,4142.0,2021
+U7,USA Jet Airlines Inc.,4,5199.0,2021
+UA,United Air Lines Inc.,1,14170798.0,2021
+UA,United Air Lines Inc.,2,18067646.0,2021
+UA,United Air Lines Inc.,3,16938815.0,2021
+UA,United Air Lines Inc.,4,18307273.0,2021
+WI,Sky Lease Cargo,1,29715.0,2021
+WI,Sky Lease Cargo,2,29858.0,2021
+WI,Sky Lease Cargo,3,35693.0,2021
+WI,Sky Lease Cargo,4,40555.0,2021
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,9246.0,2021
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,9832.0,2021
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,12234.0,2021
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,12842.0,2021
+WN,Southwest Airlines Co.,1,8182178.0,2021
+WN,Southwest Airlines Co.,2,12475921.0,2021
+WN,Southwest Airlines Co.,3,9134621.0,2021
+WN,Southwest Airlines Co.,4,9164418.0,2021
+X9,Omni Air International LLC,1,130363.0,2021
+X9,Omni Air International LLC,2,151880.0,2021
+X9,Omni Air International LLC,3,128208.0,2021
+X9,Omni Air International LLC,4,162188.0,2021
+YV,Mesa Airlines Inc.,1,98452.0,2021
+YV,Mesa Airlines Inc.,2,81671.0,2021
+YV,Mesa Airlines Inc.,3,78583.0,2021
+YV,Mesa Airlines Inc.,4,83622.0,2021
+YX,Republic Airline,1,444466.0,2021
+YX,Republic Airline,2,460305.0,2021
+YX,Republic Airline,3,435068.0,2021
+YX,Republic Airline,4,426698.0,2021
+ZW,Air Wisconsin Airlines Corp,1,91969.0,2021
+ZW,Air Wisconsin Airlines Corp,2,88260.0,2021
+ZW,Air Wisconsin Airlines Corp,3,81305.0,2021
+ZW,Air Wisconsin Airlines Corp,4,91003.0,2021
+All Rows,All Rows (including those not displayed),1,89213828.0,2021
+All Rows,All Rows (including those not displayed),2,105228415.0,2021
+All Rows,All Rows (including those not displayed),3,94116837.0,2021
+All Rows,All Rows (including those not displayed),4,95291228.0,2021
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,119826.0,2022
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,122748.0,2022
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,130595.0,2022
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,136299.0,2022
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,25333.0,2022
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,26257.0,2022
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,25800.0,2022
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,28533.0,2022
+1TQ,Rhoades Aviation dba Transair,1,257.0,2022
+1TQ,Rhoades Aviation dba Transair,2,40.0,2022
+1TQ,Rhoades Aviation dba Transair,3,49.0,2022
+1TQ,Rhoades Aviation dba Transair,4,21.0,2022
+27Q,"Jet Aviation Flight Services, Inc.",1,-13757.0,2022
+27Q,"Jet Aviation Flight Services, Inc.",2,-3062.0,2022
+27Q,"Jet Aviation Flight Services, Inc.",3,-12623.0,2022
+27Q,"Jet Aviation Flight Services, Inc.",4,-20013.0,2022
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1,8900.0,2022
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",2,8300.0,2022
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3,7261.0,2022
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",4,17926.0,2022
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",1,-21687.0,2022
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",2,-550000.0,2022
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",3,625089.0,2022
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",4,22299.0,2022
+3M,Silver Airways,1,36741.0,2022
+3M,Silver Airways,2,36189.0,2022
+3M,Silver Airways,3,36525.0,2022
+3M,Silver Airways,4,36360.0,2022
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,7316.0,2022
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,9417.0,2022
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,6231.0,2022
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,5577.0,2022
+5X,United Parcel Service,1,1102970.0,2022
+5X,United Parcel Service,2,1201500.0,2022
+5X,United Parcel Service,3,1083458.0,2022
+5X,United Parcel Service,4,1107645.0,2022
+5Y,Atlas Air Inc.,1,846358.0,2022
+5Y,Atlas Air Inc.,2,806750.0,2022
+5Y,Atlas Air Inc.,3,798185.0,2022
+5Y,Atlas Air Inc.,4,779499.0,2022
+8C,Air Transport International,1,54336.0,2022
+8C,Air Transport International,2,73677.0,2022
+8C,Air Transport International,3,64719.0,2022
+8C,Air Transport International,4,62858.0,2022
+9E,Endeavor Air Inc.,1,177542.0,2022
+9E,Endeavor Air Inc.,2,206017.0,2022
+9E,Endeavor Air Inc.,3,208848.0,2022
+9E,Endeavor Air Inc.,4,205907.0,2022
+AA,American Airlines Inc.,1,21042587.0,2022
+AA,American Airlines Inc.,2,22349675.0,2022
+AA,American Airlines Inc.,3,21561660.0,2022
+AA,American Airlines Inc.,4,21082074.0,2022
+ABX,ABX Air Inc,1,36807.0,2022
+ABX,ABX Air Inc,2,36807.0,2022
+ABX,ABX Air Inc,3,33479.0,2022
+ABX,ABX Air Inc,4,33479.0,2022
+AS,Alaska Airlines Inc.,1,6178437.0,2022
+AS,Alaska Airlines Inc.,2,6558448.0,2022
+AS,Alaska Airlines Inc.,3,6355139.0,2022
+AS,Alaska Airlines Inc.,4,6139197.0,2022
+B6,JetBlue Airways,1,4026052.0,2022
+B6,JetBlue Airways,2,4065518.0,2022
+B6,JetBlue Airways,3,3903574.0,2022
+B6,JetBlue Airways,4,3748208.0,2022
+C5,CommuteAir LLC dba CommuteAir,1,72311.0,2022
+C5,CommuteAir LLC dba CommuteAir,2,61528.0,2022
+C5,CommuteAir LLC dba CommuteAir,3,60094.0,2022
+C5,CommuteAir LLC dba CommuteAir,4,35418.0,2022
+DL,Delta Air Lines Inc.,1,24049753.0,2022
+DL,Delta Air Lines Inc.,2,26312770.0,2022
+DL,Delta Air Lines Inc.,3,25881447.0,2022
+DL,Delta Air Lines Inc.,4,25986567.0,2022
+F9,Frontier Airlines Inc.,1,1461447.0,2022
+F9,Frontier Airlines Inc.,2,1558691.0,2022
+F9,Frontier Airlines Inc.,3,1476149.0,2022
+F9,Frontier Airlines Inc.,4,1578912.0,2022
+FX,Federal Express Corporation,1,8063400.0,2022
+FX,Federal Express Corporation,2,8083525.0,2022
+FX,Federal Express Corporation,3,7066384.0,2022
+FX,Federal Express Corporation,4,7897829.0,2022
+G4,Allegiant Air,1,854671.0,2022
+G4,Allegiant Air,2,879945.0,2022
+G4,Allegiant Air,3,838831.0,2022
+G4,Allegiant Air,4,830196.0,2022
+G7,GoJet Airlines LLC d/b/a United Express,1,56073.0,2022
+G7,GoJet Airlines LLC d/b/a United Express,2,57478.0,2022
+G7,GoJet Airlines LLC d/b/a United Express,3,35828.0,2022
+G7,GoJet Airlines LLC d/b/a United Express,4,38777.0,2022
+GFQ,Gulf And Caribbean Cargo,1,24989.0,2022
+GFQ,Gulf And Caribbean Cargo,2,19124.0,2022
+GFQ,Gulf And Caribbean Cargo,3,18970.0,2022
+GFQ,Gulf And Caribbean Cargo,4,22282.0,2022
+HA,Hawaiian Airlines Inc.,1,1205677.0,2022
+HA,Hawaiian Airlines Inc.,2,1239042.0,2022
+HA,Hawaiian Airlines Inc.,3,1158881.0,2022
+HA,Hawaiian Airlines Inc.,4,1107329.0,2022
+KAQ,Kalitta Air LLC,1,192113.0,2022
+KAQ,Kalitta Air LLC,2,187924.0,2022
+KAQ,Kalitta Air LLC,3,172003.0,2022
+KAQ,Kalitta Air LLC,4,191164.0,2022
+KD,Western Global,1,104307.0,2022
+KD,Western Global,2,149102.0,2022
+KD,Western Global,3,144591.0,2022
+KD,Western Global,4,180195.0,2022
+KH,Aloha Air Cargo,1,-69149.0,2022
+KH,Aloha Air Cargo,2,-88067.0,2022
+KH,Aloha Air Cargo,3,-67796.0,2022
+KH,Aloha Air Cargo,4,-81996.0,2022
+L2,Lynden Air Cargo Airlines,1,12226.0,2022
+L2,Lynden Air Cargo Airlines,2,14417.0,2022
+L2,Lynden Air Cargo Airlines,3,13352.0,2022
+L2,Lynden Air Cargo Airlines,4,11326.0,2022
+M6,Amerijet International,1,222766.0,2022
+M6,Amerijet International,2,231901.0,2022
+M6,Amerijet International,3,226257.0,2022
+M6,Amerijet International,4,230875.0,2022
+MQ,Envoy Air,1,235662.0,2022
+MQ,Envoy Air,2,226397.0,2022
+MQ,Envoy Air,3,223726.0,2022
+MQ,Envoy Air,4,240338.0,2022
+MX,Breeze Aviation Group DBA  Breeze,1,92371.0,2022
+MX,Breeze Aviation Group DBA  Breeze,2,124487.0,2022
+MX,Breeze Aviation Group DBA  Breeze,3,142243.0,2022
+MX,Breeze Aviation Group DBA  Breeze,4,137644.0,2022
+N8,National Air Cargo Group Inc d/ba National Airlines,1,6775.0,2022
+N8,National Air Cargo Group Inc d/ba National Airlines,2,7392.0,2022
+N8,National Air Cargo Group Inc d/ba National Airlines,3,6507.0,2022
+N8,National Air Cargo Group Inc d/ba National Airlines,4,15696.0,2022
+NC,Northern Air Cargo Inc.,1,135162.0,2022
+NC,Northern Air Cargo Inc.,2,9093.0,2022
+NC,Northern Air Cargo Inc.,3,-80626.0,2022
+NC,Northern Air Cargo Inc.,4,-70821.0,2022
+NK,Spirit Air Lines,1,1611275.0,2022
+NK,Spirit Air Lines,2,1737132.0,2022
+NK,Spirit Air Lines,3,1668531.0,2022
+NK,Spirit Air Lines,4,1596581.0,2022
+OH,PSA Airlines Inc.,1,493974.0,2022
+OH,PSA Airlines Inc.,2,510881.0,2022
+OH,PSA Airlines Inc.,3,531263.0,2022
+OH,PSA Airlines Inc.,4,550517.0,2022
+OO,SkyWest Airlines Inc.,1,1156039.0,2022
+OO,SkyWest Airlines Inc.,2,1205058.0,2022
+OO,SkyWest Airlines Inc.,3,1162695.0,2022
+OO,SkyWest Airlines Inc.,4,1165400.0,2022
+PFQ,Asia Pacific,1,32787.0,2022
+PFQ,Asia Pacific,2,32504.0,2022
+PFQ,Asia Pacific,3,33658.0,2022
+PFQ,Asia Pacific,4,32579.0,2022
+PO,Polar Air Cargo Airways,1,221427.0,2022
+PO,Polar Air Cargo Airways,2,226798.0,2022
+PO,Polar Air Cargo Airways,3,201923.0,2022
+PO,Polar Air Cargo Airways,4,195760.0,2022
+PT,Piedmont Airlines,1,151827.0,2022
+PT,Piedmont Airlines,2,130518.0,2022
+PT,Piedmont Airlines,3,127661.0,2022
+PT,Piedmont Airlines,4,130805.0,2022
+QX,Horizon Air,1,306063.0,2022
+QX,Horizon Air,2,323532.0,2022
+QX,Horizon Air,3,354545.0,2022
+QX,Horizon Air,4,442469.0,2022
+SY,Sun Country Airlines d/b/a MN Airlines,1,301477.0,2022
+SY,Sun Country Airlines d/b/a MN Airlines,2,331361.0,2022
+SY,Sun Country Airlines d/b/a MN Airlines,3,320690.0,2022
+SY,Sun Country Airlines d/b/a MN Airlines,4,377130.0,2022
+U7,USA Jet Airlines Inc.,1,6266.0,2022
+U7,USA Jet Airlines Inc.,2,7822.0,2022
+U7,USA Jet Airlines Inc.,3,7641.0,2022
+U7,USA Jet Airlines Inc.,4,8878.0,2022
+UA,United Air Lines Inc.,1,21790471.0,2022
+UA,United Air Lines Inc.,2,23446122.0,2022
+UA,United Air Lines Inc.,3,21992107.0,2022
+UA,United Air Lines Inc.,4,19994464.0,2022
+WI,Sky Lease Cargo,1,46395.0,2022
+WI,Sky Lease Cargo,2,25693.0,2022
+WI,Sky Lease Cargo,3,22713.0,2022
+WI,Sky Lease Cargo,4,20633.0,2022
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,10621.0,2022
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,10761.0,2022
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,,2022
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,,2022
+WN,Southwest Airlines Co.,1,10068685.0,2022
+WN,Southwest Airlines Co.,2,11711034.0,2022
+WN,Southwest Airlines Co.,3,10415813.0,2022
+WN,Southwest Airlines Co.,4,10378437.0,2022
+X9,Omni Air International LLC,1,183983.0,2022
+X9,Omni Air International LLC,2,183770.0,2022
+X9,Omni Air International LLC,3,183511.0,2022
+X9,Omni Air International LLC,4,181117.0,2022
+YV,Mesa Airlines Inc.,1,86389.0,2022
+YV,Mesa Airlines Inc.,2,76435.0,2022
+YV,Mesa Airlines Inc.,3,46736.0,2022
+YV,Mesa Airlines Inc.,4,-3424.0,2022
+YX,Republic Airline,1,415376.0,2022
+YX,Republic Airline,2,406851.0,2022
+YX,Republic Airline,3,410498.0,2022
+YX,Republic Airline,4,422864.0,2022
+ZW,Air Wisconsin Airlines Corp,1,88032.0,2022
+ZW,Air Wisconsin Airlines Corp,2,80904.0,2022
+ZW,Air Wisconsin Airlines Corp,3,68617.0,2022
+ZW,Air Wisconsin Airlines Corp,4,60996.0,2022
+All Rows,All Rows (including those not displayed),1,107319658.0,2022
+All Rows,All Rows (including those not displayed),2,114470207.0,2022
+All Rows,All Rows (including those not displayed),3,109693435.0,2022
+All Rows,All Rows (including those not displayed),4,107292807.0,2022
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",1,135099.0,2023
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",2,144622.0,2023
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",3,177268.0,2023
+09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",4,235366.0,2023
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1,27905.0,2023
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",2,28784.0,2023
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",3,27305.0,2023
+1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",4,27944.0,2023
+1TQ,Rhoades Aviation dba Transair,1,151.0,2023
+1TQ,Rhoades Aviation dba Transair,2,,2023
+1TQ,Rhoades Aviation dba Transair,3,,2023
+1TQ,Rhoades Aviation dba Transair,4,,2023
+27Q,"Jet Aviation Flight Services, Inc.",1,-3167.0,2023
+27Q,"Jet Aviation Flight Services, Inc.",2,-14232.0,2023
+27Q,"Jet Aviation Flight Services, Inc.",3,-7354.0,2023
+27Q,"Jet Aviation Flight Services, Inc.",4,-10995.0,2023
+2PQ,21 Air LLC,1,18635.0,2023
+2PQ,21 Air LLC,2,16060.0,2023
+2PQ,21 Air LLC,3,16595.0,2023
+2PQ,21 Air LLC,4,15587.0,2023
+37Q,"Eastern Air Express, LLC (EAX)",1,5122.0,2023
+37Q,"Eastern Air Express, LLC (EAX)",2,4114.0,2023
+37Q,"Eastern Air Express, LLC (EAX)",3,2902.0,2023
+37Q,"Eastern Air Express, LLC (EAX)",4,4337.0,2023
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",1,10417.0,2023
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",2,13911.0,2023
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3,14272.0,2023
+3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",4,14989.0,2023
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",1,22299.0,2023
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",2,411318.0,2023
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",3,486436.0,2023
+3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",4,562565.0,2023
+3M,Silver Airways,1,44946.0,2023
+3M,Silver Airways,2,48507.0,2023
+3M,Silver Airways,3,53075.0,2023
+3M,Silver Airways,4,45707.0,2023
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,1,6090.0,2023
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,2,4682.0,2023
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,3,4375.0,2023
+5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,4,3170.0,2023
+5X,United Parcel Service,1,998505.0,2023
+5X,United Parcel Service,2,959074.0,2023
+5X,United Parcel Service,3,970212.0,2023
+5X,United Parcel Service,4,866063.0,2023
+5Y,Atlas Air Inc.,1,703865.0,2023
+5Y,Atlas Air Inc.,2,709247.0,2023
+5Y,Atlas Air Inc.,3,898216.0,2023
+5Y,Atlas Air Inc.,4,873460.0,2023
+8C,Air Transport International,1,64210.0,2023
+8C,Air Transport International,2,67248.0,2023
+8C,Air Transport International,3,76018.0,2023
+8C,Air Transport International,4,65393.0,2023
+9E,Endeavor Air Inc.,1,208282.0,2023
+9E,Endeavor Air Inc.,2,216868.0,2023
+9E,Endeavor Air Inc.,3,210852.0,2023
+9E,Endeavor Air Inc.,4,225200.0,2023
+AA,American Airlines Inc.,1,24192275.0,2023
+AA,American Airlines Inc.,2,23900070.0,2023
+AA,American Airlines Inc.,3,23947858.0,2023
+AA,American Airlines Inc.,4,21617418.0,2023
+ABX,ABX Air Inc,1,35858.0,2023
+ABX,ABX Air Inc,2,35004.0,2023
+ABX,ABX Air Inc,3,35105.0,2023
+ABX,ABX Air Inc,4,34129.0,2023
+AS,Alaska Airlines Inc.,1,6489884.0,2023
+AS,Alaska Airlines Inc.,2,6817297.0,2023
+AS,Alaska Airlines Inc.,3,6630612.0,2023
+AS,Alaska Airlines Inc.,4,6070994.0,2023
+B6,JetBlue Airways,1,4009637.0,2023
+B6,JetBlue Airways,2,3889561.0,2023
+B6,JetBlue Airways,3,3723155.0,2023
+B6,JetBlue Airways,4,3628485.0,2023
+C5,CommuteAir LLC dba CommuteAir,1,34254.0,2023
+C5,CommuteAir LLC dba CommuteAir,2,34412.0,2023
+C5,CommuteAir LLC dba CommuteAir,3,33508.0,2023
+C5,CommuteAir LLC dba CommuteAir,4,34297.0,2023
+DL,Delta Air Lines Inc.,1,28488024.0,2023
+DL,Delta Air Lines Inc.,2,28572614.0,2023
+DL,Delta Air Lines Inc.,3,27593196.0,2023
+DL,Delta Air Lines Inc.,4,26466431.0,2023
+F9,Frontier Airlines Inc.,1,1698726.0,2023
+F9,Frontier Airlines Inc.,2,1664069.0,2023
+F9,Frontier Airlines Inc.,3,1707749.0,2023
+F9,Frontier Airlines Inc.,4,1677403.0,2023
+FX,Federal Express Corporation,1,7589045.0,2023
+FX,Federal Express Corporation,2,8404977.0,2023
+FX,Federal Express Corporation,3,9154908.0,2023
+FX,Federal Express Corporation,4,10058089.0,2023
+G4,Allegiant Air,1,1054595.0,2023
+G4,Allegiant Air,2,1006777.0,2023
+G4,Allegiant Air,3,978501.0,2023
+G4,Allegiant Air,4,1139052.0,2023
+G7,GoJet Airlines LLC d/b/a United Express,1,40077.0,2023
+G7,GoJet Airlines LLC d/b/a United Express,2,40902.0,2023
+G7,GoJet Airlines LLC d/b/a United Express,3,36929.0,2023
+G7,GoJet Airlines LLC d/b/a United Express,4,81967.0,2023
+GCA,"Global Crossing Airlines, Inc.",1,34137.0,2023
+GCA,"Global Crossing Airlines, Inc.",2,47655.0,2023
+GCA,"Global Crossing Airlines, Inc.",3,42714.0,2023
+GCA,"Global Crossing Airlines, Inc.",4,53027.0,2023
+GFQ,Gulf And Caribbean Cargo,1,28346.0,2023
+GFQ,Gulf And Caribbean Cargo,2,14808.0,2023
+GFQ,Gulf And Caribbean Cargo,3,15451.0,2023
+GFQ,Gulf And Caribbean Cargo,4,14643.0,2023
+HA,Hawaiian Airlines Inc.,1,1273682.0,2023
+HA,Hawaiian Airlines Inc.,2,1284563.0,2023
+HA,Hawaiian Airlines Inc.,3,1200115.0,2023
+HA,Hawaiian Airlines Inc.,4,1134720.0,2023
+KAQ,Kalitta Air LLC,1,177996.0,2023
+KAQ,Kalitta Air LLC,2,187091.0,2023
+KAQ,Kalitta Air LLC,3,184582.0,2023
+KAQ,Kalitta Air LLC,4,168963.0,2023
+KD,Western Global,1,203866.0,2023
+KD,Western Global,2,169674.0,2023
+KD,Western Global,3,202470.0,2023
+KD,Western Global,4,38095.0,2023
+KH,Aloha Air Cargo,1,-106576.0,2023
+KH,Aloha Air Cargo,2,-129949.0,2023
+KH,Aloha Air Cargo,3,-144537.0,2023
+KH,Aloha Air Cargo,4,-159499.0,2023
+KLQ,Kalitta Charters II,1,7417.0,2023
+KLQ,Kalitta Charters II,2,,2023
+KLQ,Kalitta Charters II,3,8786.0,2023
+KLQ,Kalitta Charters II,4,7206.0,2023
+L2,Lynden Air Cargo Airlines,1,11654.0,2023
+L2,Lynden Air Cargo Airlines,2,14477.0,2023
+L2,Lynden Air Cargo Airlines,3,11485.0,2023
+L2,Lynden Air Cargo Airlines,4,10817.0,2023
+M6,Amerijet International,1,208780.0,2023
+M6,Amerijet International,2,143010.0,2023
+M6,Amerijet International,3,162186.0,2023
+M6,Amerijet International,4,123897.0,2023
+MQ,Envoy Air,1,237149.0,2023
+MQ,Envoy Air,2,226999.0,2023
+MQ,Envoy Air,3,255089.0,2023
+MQ,Envoy Air,4,250468.0,2023
+MX,Breeze Aviation Group DBA  Breeze,1,174157.0,2023
+MX,Breeze Aviation Group DBA  Breeze,2,184521.0,2023
+MX,Breeze Aviation Group DBA  Breeze,3,215117.0,2023
+MX,Breeze Aviation Group DBA  Breeze,4,236327.0,2023
+N8,National Air Cargo Group Inc d/ba National Airlines,1,11548.0,2023
+N8,National Air Cargo Group Inc d/ba National Airlines,2,7735.0,2023
+N8,National Air Cargo Group Inc d/ba National Airlines,3,14599.0,2023
+N8,National Air Cargo Group Inc d/ba National Airlines,4,7096.0,2023
+NC,Northern Air Cargo Inc.,1,-74192.0,2023
+NC,Northern Air Cargo Inc.,2,-70734.0,2023
+NC,Northern Air Cargo Inc.,3,-65945.0,2023
+NC,Northern Air Cargo Inc.,4,-71461.0,2023
+NK,Spirit Air Lines,1,1752610.0,2023
+NK,Spirit Air Lines,2,1685962.0,2023
+NK,Spirit Air Lines,3,1600799.0,2023
+NK,Spirit Air Lines,4,1671592.0,2023
+OH,PSA Airlines Inc.,1,568121.0,2023
+OH,PSA Airlines Inc.,2,580255.0,2023
+OH,PSA Airlines Inc.,3,578465.0,2023
+OH,PSA Airlines Inc.,4,607345.0,2023
+OO,SkyWest Airlines Inc.,1,1134188.0,2023
+OO,SkyWest Airlines Inc.,2,1147906.0,2023
+OO,SkyWest Airlines Inc.,3,1184771.0,2023
+OO,SkyWest Airlines Inc.,4,1231489.0,2023
+PFQ,Asia Pacific,1,27889.0,2023
+PFQ,Asia Pacific,2,26400.0,2023
+PFQ,Asia Pacific,3,28588.0,2023
+PFQ,Asia Pacific,4,27229.0,2023
+PO,Polar Air Cargo Airways,1,170778.0,2023
+PO,Polar Air Cargo Airways,2,204066.0,2023
+PO,Polar Air Cargo Airways,3,199553.0,2023
+PO,Polar Air Cargo Airways,4,171327.0,2023
+PT,Piedmont Airlines,1,124662.0,2023
+PT,Piedmont Airlines,2,115931.0,2023
+PT,Piedmont Airlines,3,114388.0,2023
+PT,Piedmont Airlines,4,98373.0,2023
+QX,Horizon Air,1,474237.0,2023
+QX,Horizon Air,2,472432.0,2023
+QX,Horizon Air,3,391117.0,2023
+QX,Horizon Air,4,346209.0,2023
+SY,Sun Country Airlines d/b/a MN Airlines,1,366368.0,2023
+SY,Sun Country Airlines d/b/a MN Airlines,2,383255.0,2023
+SY,Sun Country Airlines d/b/a MN Airlines,3,370875.0,2023
+SY,Sun Country Airlines d/b/a MN Airlines,4,418583.0,2023
+U7,USA Jet Airlines Inc.,1,8581.0,2023
+U7,USA Jet Airlines Inc.,2,7008.0,2023
+U7,USA Jet Airlines Inc.,3,3896.0,2023
+U7,USA Jet Airlines Inc.,4,5623.0,2023
+UA,United Air Lines Inc.,1,23637623.0,2023
+UA,United Air Lines Inc.,2,25577520.0,2023
+UA,United Air Lines Inc.,3,24758276.0,2023
+UA,United Air Lines Inc.,4,22204921.0,2023
+WI,Sky Lease Cargo,1,25825.0,2023
+WI,Sky Lease Cargo,2,30329.0,2023
+WI,Sky Lease Cargo,3,32837.0,2023
+WI,Sky Lease Cargo,4,35453.0,2023
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",1,14899.0,2023
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",2,17047.0,2023
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",3,18489.0,2023
+WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",4,19179.0,2023
+WN,Southwest Airlines Co.,1,11329123.0,2023
+WN,Southwest Airlines Co.,2,11727893.0,2023
+WN,Southwest Airlines Co.,3,12111704.0,2023
+WN,Southwest Airlines Co.,4,12256257.0,2023
+X9,Omni Air International LLC,1,185403.0,2023
+X9,Omni Air International LLC,2,223713.0,2023
+X9,Omni Air International LLC,3,233775.0,2023
+X9,Omni Air International LLC,4,250144.0,2023
+XP,TEM Enterprises dba  Avelo Airlines,1,145327.0,2023
+XP,TEM Enterprises dba  Avelo Airlines,2,134818.0,2023
+XP,TEM Enterprises dba  Avelo Airlines,3,140834.0,2023
+XP,TEM Enterprises dba  Avelo Airlines,4,151711.0,2023
+YV,Mesa Airlines Inc.,1,78798.0,2023
+YV,Mesa Airlines Inc.,2,58494.0,2023
+YV,Mesa Airlines Inc.,3,104765.0,2023
+YV,Mesa Airlines Inc.,4,102768.0,2023
+YX,Republic Airline,1,437235.0,2023
+YX,Republic Airline,2,436119.0,2023
+YX,Republic Airline,3,424204.0,2023
+YX,Republic Airline,4,445504.0,2023
+ZW,Air Wisconsin Airlines Corp,1,56499.0,2023
+ZW,Air Wisconsin Airlines Corp,2,43941.0,2023
+ZW,Air Wisconsin Airlines Corp,3,83808.0,2023
+ZW,Air Wisconsin Airlines Corp,4,,2023
+All Rows,All Rows (including those not displayed),1,118600864.0,2023
+All Rows,All Rows (including those not displayed),2,121928824.0,2023
+All Rows,All Rows (including those not displayed),3,121254947.0,2023
+All Rows,All Rows (including those not displayed),4,115595058.0,2023

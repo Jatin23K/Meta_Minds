@@ -1,0 +1,60 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                  🔄 META MINDS CROSS-DATASET ANALYSIS REPORT                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📅 Generated: 2025-10-27 11:32:22
+🔄 Datasets Compared: 3
+🎯 Focus: Cross-dataset relationships and comparative insights
+
+================================================================================
+
+📊 DATASETS IN COMPARISON
+================================================================================
+ 1. Assets.csv
+    📊 Dimensions: 2440 rows × 5 columns
+ 2. Liabilities.csv
+    📊 Dimensions: 2440 rows × 5 columns
+ 3. Top_10_Ratio.csv
+    📊 Dimensions: 1320 rows × 4 columns
+
+================================================================================
+
+🔄 CROSS-DATASET COMPARISON QUESTIONS
+================================================================================
+
+🎯 These questions explore relationships, patterns, and insights
+   that emerge when analyzing your datasets together:
+
+ 1. How do the key performance metrics compare across Assets.csv, Liabilities.csv, and Top_10_Ratio.csv?
+ 2. What are the significant differences in trends between the three airline financial datasets?
+ 3. Which dataset shows the strongest correlation patterns and why?
+ 4. How do the data quality and completeness compare across all three datasets?
+ 5. What insights emerge when analyzing all three datasets together for airline financial risk assessment?
+ 6. Which dataset contains the most actionable insights for financial analysis and executive decision-making?
+
+================================================================================
+
+📊 COMPARISON ANALYSIS QUALITY
+================================================================================
+📈 Quality Score: 0.99/1.00
+✅ High Quality Questions: 6/6
+🌟 Assessment: Excellent cross-dataset analysis quality
+
+================================================================================
+
+💡 CROSS-DATASET ANALYSIS INSIGHTS
+================================================================================
+
+🔍 This analysis reveals:
+   • Hidden relationships between your datasets
+   • Patterns that emerge across multiple data sources
+   • Opportunities for data integration and correlation
+   • Comparative insights impossible with individual analysis
+
+🎯 Use these questions to:
+   • Discover unexpected connections in your data
+   • Validate assumptions across multiple sources
+   • Identify opportunities for business optimization
+   • Create comprehensive business intelligence
+
+Cross-dataset analysis complete!

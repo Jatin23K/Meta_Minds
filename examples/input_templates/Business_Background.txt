@@ -1,0 +1,39 @@
+BUSINESS BACKGROUND INFORMATION
+===============================
+
+Project Title: Airline Financial Performance Risk Assessment
+
+Business Context:
+- Industry/Domain: Aviation/Airline Industry
+- Business Problem: Comprehensive financial risk assessment across airline operations from 2013-2023
+- Stakeholders: Executive leadership, financial analysts, risk management team
+
+Project Objectives:
+- Primary Goals: Sales performance evaluation and comprehensive risk assessment
+- Secondary Goals: Financial stability analysis, performance trends identification
+- Success Criteria: Identify risk factors, performance patterns, and strategic recommendations
+
+Timeline & Constraints:
+- Project Start: Current analysis cycle
+- Deadline: Executive board presentation required
+- Budget Constraints: Standard analytical resources
+- Technical Constraints: Focus on quantitative financial metrics
+
+Target Audience:
+- Primary: Executives and senior leadership
+- Technical Level: High-level strategic insights, minimal technical jargon
+- Presentation Format: Executive summary with actionable recommendations
+
+Business Context Details:
+- Subject Area: Sales performance analysis with focus on risk assessment
+- Business Context: General business analysis for strategic decision making
+- Time Sensitivity: Low urgency but thorough analysis required
+- Industry Focus: Aviation sector financial performance over decade-long period
+
+Expected Deliverables:
+- Reports: Comprehensive risk assessment reports
+- Visualizations: Financial trend charts, ratio analysis dashboards
+- Recommendations: Strategic insights for risk mitigation and performance optimization
+
+Notes:
+This analysis covers a critical period in aviation history including economic fluctuations, COVID-19 pandemic impact, and industry recovery phases. Focus on identifying patterns that indicate financial resilience and risk factors for executive strategic planning.

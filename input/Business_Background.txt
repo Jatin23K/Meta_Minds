@@ -1,0 +1,39 @@
+BUSINESS BACKGROUND INFORMATION
+===============================
+
+Project Title: US Airline Industry Financial Health Analysis (2013-2023)
+
+Business Context:
+- Industry/Domain: Aviation & Transportation - Commercial Airline Industry
+- Business Problem: Comprehensive assessment of airline financial stability, liquidity trends, and competitive positioning across major US carriers during a decade of significant industry transformation including economic recovery, consolidation, and pandemic impact
+- Stakeholders: Aviation Investment Analysts, Airline Executives, Financial Risk Managers, Industry Regulators, Strategic Planning Teams
+
+Project Objectives:
+- Primary Goals: Financial health assessment, liquidity risk evaluation, competitive benchmarking across carriers, identification of financially stable vs distressed airlines
+- Secondary Goals: Trend analysis of financial ratios (2013-2023), seasonal pattern identification, impact assessment of major industry events, prediction of future financial stability risks
+- Success Criteria: Clear identification of high-risk carriers, actionable investment recommendations, strategic insights for operational improvements, data-driven risk mitigation strategies
+
+Timeline & Constraints:
+- Project Start: October 2025
+- Deadline: Strategic analysis required for Q4 2025 investment decisions and 2026 strategic planning
+- Budget Constraints: Analysis must be cost-effective using existing historical data
+- Technical Constraints: Working with quarterly financial data spanning 10 years across multiple carriers with varying reporting standards
+
+Target Audience:
+- Primary: C-Suite Executives (CFOs, CEOs), Investment Analysts, Board of Directors
+- Technical Level: High-level strategic with supporting financial metrics - audience has strong financial acumen but needs synthesized insights
+- Presentation Format: Executive summary with key findings, detailed financial analysis reports, interactive dashboards showing trends and comparisons
+
+Business Context Details:
+- Subject Area: Aviation financial analysis - focus on balance sheet health, liquidity management, and financial sustainability
+- Business Context: Post-2008 recovery period, airline consolidation era, COVID-19 pandemic impact, rising fuel costs, labor negotiations, and evolving consumer travel patterns
+- Time Sensitivity: High - supporting immediate investment decisions and strategic planning for upcoming fiscal year
+- Industry Focus: US commercial aviation sector with emphasis on major carriers (AA, DL, UA, AS, B6, etc.) and regional players
+
+Expected Deliverables:
+- Reports: Individual carrier financial health reports, cross-carrier comparative analysis, industry trend reports, risk assessment summaries
+- Visualizations: Current ratio trend charts, carrier comparison dashboards, quarterly performance heatmaps, asset-liability correlation plots
+- Recommendations: Investment grade classifications, risk mitigation strategies, operational efficiency improvements, capital structure optimization suggestions
+
+Notes:
+This analysis covers a transformative decade for US aviation including post-recession recovery (2013-2015), industry consolidation (2015-2018), pre-pandemic growth (2018-2019), COVID-19 crisis (2020-2021), and recovery period (2021-2023). Special attention should be paid to carriers showing declining liquidity ratios, negative asset positions, and unsustainable liability growth. The analysis should identify early warning signals of financial distress and distinguish between temporary disruptions versus systemic financial challenges.
