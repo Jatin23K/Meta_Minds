@@ -20,7 +20,7 @@
 
 **Meta Minds** is a **production-ready, 10/10 rated** AI-powered data analysis platform that generates high-quality analytical questions using SMART methodology. Features intelligent column analysis, CLI automation, professional TXT reports, offline fallback mode, and transforms datasets into actionable business insights with intelligent recommendations.
 
-### ⚡ **Time Savings: 95%**
+### ⚡ **Time Savings: 90%**
 - **Manual approach**: 4-6 hours for comprehensive analysis
 - **META_MINDS**: 10-15 minutes automated
 - **Delivers**: Context-aware questions + intelligent insights + professional reports
