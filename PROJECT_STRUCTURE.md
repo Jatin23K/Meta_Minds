@@ -28,12 +28,10 @@ This document provides a comprehensive overview of the Meta Minds project struct
 │   ├── Dataset_Background.txt     # Dataset-specific context template
 │   └── Message.txt               # Senior stakeholder instructions template
 ├── 📂 dataset/               # Sample datasets (for testing)
-├── 📂 Output/                # Generated reports (git-ignored)
+├── 📂 Output/                # Generated reports (git-ignored, README.md included)
+│   ├── README.md                 # Output format documentation
 │   ├── Individual_*.txt          # Individual dataset reports
-│   ├── Cross-Dataset_*.txt       # Cross-dataset comparison reports
-│   ├── *.xlsx                    # 🆕 Excel exports
-│   ├── *.json                    # 🆕 JSON exports
-│   └── *.html                    # 🆕 HTML dashboards
+│   └── Cross-Dataset_*.txt       # Cross-dataset comparison reports
 ├── 📂 docs/                  # Comprehensive documentation
 ├── 📂 examples/              # Examples and demos
 ├── 📂 workflows/             # Workflow definitions
@@ -69,23 +67,22 @@ python main.py --batch config_folder/
 ```
 - **Impact**: Enables automation, scripting, CI/CD integration
 
-#### **3. 📤 Multiple Export Formats**
-- **TXT**: Professional reports (default)
-- **Excel**: Multi-sheet workbooks with metadata
-- **JSON**: Structured data for APIs
-- **HTML**: Interactive dashboards with copy buttons
-- **Impact**: Flexibility for different stakeholders
+#### **3. 📄 Professional TXT Reports**
+- **TXT**: Clean, formatted reports with intelligent insights
+- **Metadata**: Complete context and quality assessment
+- **Structure**: Individual dataset reports + cross-dataset analysis
+- **Impact**: Production-ready documentation for stakeholders
 
 #### **4. 🎯 Exact Question Count Enforcement**
 - **Before**: Request 13, get 15 (AI overgeneration)
 - **After**: Request 13, get exactly 13 (forced trimming)
 - **Impact**: Predictable output, no surprises
 
-#### **5. 💎 Professional Emoji System**
-- **Auto-detects** terminal encoding (UTF-8 vs cp1252)
-- **UTF-8 terminals**: Beautiful emojis (🚀📊🔍)
-- **Windows cmd**: Professional text symbols (>>[CHART][SEARCH])
-- **Impact**: No more Unicode encoding errors
+#### **5. 📁 Smart Output Management**
+- Auto-detects correct Output folder location
+- Multiple fallback directories if permission denied
+- Shows exact file save location
+- **Impact**: No more "file not found" issues
 
 #### **6. 🏢 Enhanced Context Collection**
 - **6 optional deep-dive questions** for 9.5/10 quality
@@ -93,13 +90,7 @@ python main.py --batch config_folder/
 - **Skip/Must-Have/All/Custom** selection modes
 - **Impact**: Flexible quality levels based on need
 
-#### **7. 📁 Smart Output Management**
-- Auto-detects correct Output folder location
-- Multiple fallback directories if permission denied
-- Shows exact file save location
-- **Impact**: No more "file not found" issues
-
-#### **8. 📊 Intelligent Recommendations**
+#### **7. 📊 Intelligent Recommendations**
 - Auto-calculates recommended question count
 - Based on data complexity (columns, rows)
 - Shows dataset preview before asking for counts

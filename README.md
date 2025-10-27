@@ -18,7 +18,7 @@
 
 ---
 
-**Meta Minds** is a **production-ready, 10/10 rated** AI-powered data analysis platform that generates high-quality analytical questions using SMART methodology. Features intelligent column analysis, CLI automation, multiple export formats (Excel/JSON/HTML), offline fallback mode, and transforms datasets into actionable business insights with professional-grade reports.
+**Meta Minds** is a **production-ready, 10/10 rated** AI-powered data analysis platform that generates high-quality analytical questions using SMART methodology. Features intelligent column analysis, CLI automation, professional TXT reports, offline fallback mode, and transforms datasets into actionable business insights with intelligent recommendations.
 
 ### ⚡ **Time Savings: 95%**
 - **Manual approach**: 4-6 hours for comprehensive analysis
@@ -87,11 +87,11 @@ python src/core/main.py
 
 #### **2. CLI Quick Mode (For Automation)**
 ```bash
-python src/core/main.py --quick --datasets dataset1.csv dataset2.csv --questions 15 --comparison 5 --export-all
+python src/core/main.py --quick --datasets dataset1.csv dataset2.csv --questions 15 --comparison 5
 ```
 - No prompts - uses smart defaults
 - Perfect for scripts and automation
-- Exports to TXT, Excel, JSON, HTML
+- Generates professional TXT reports
 
 #### **3. Config File Mode (For Batch Processing)**
 ```bash
